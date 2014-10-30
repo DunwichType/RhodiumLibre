@@ -1,9 +1,11 @@
 # !/usr/bin/python
 
-# Mixer v.0.02
-# Mixer originated by James Puckett, jp@dunwichtype.com
-# Mixer can be downloaded at www.DunwichType.com
-# Mixer is a program for 
+# Mixer v.0.04
+# by James Puckett, jp@dunwichtype.com
+# Mixer is a code snipped for generating text permutations in Dropbox.
+
+# This software is released under the BSD 3-Clause License
+# http://opensource.org/licenses/BSD-3-Clause
 
 # Codecs module is needed to generate working text files on Mac OS X
 import codecs

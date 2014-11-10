@@ -11,3 +11,6 @@ Rhodium is based on three designs. The primary influence is Fortuna/Fortune/Volt
 The Rhodium regular development files are released under the SIL Open Font License version 1.1: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
 
 Rhodium is a trademark of Dunwich Type Founders. If you fork the design please be sure to change the font names.
+
+Rhodium is developed with Glyphs.app 2.0, http://www.glyphsapp.com
+Rhodium proofs are created with Adobe Indesign CC 2014

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_sha-deva" format="1">
+  <advance width="1353"/>
+  <outline>
+    <contour>
+      <point x="-10" y="680" type="line"/>
+      <point x="-9" y="604" type="line"/>
+      <point x="680" y="604" type="line"/>
+      <point x="680" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="798" y="337" type="line"/>
+      <point x="761" y="414"/>
+      <point x="703" y="452"/>
+      <point x="618" y="452" type="curve" smooth="yes"/>
+      <point x="548" y="452"/>
+      <point x="497" y="434"/>
+      <point x="442" y="396" type="curve"/>
+      <point x="442" y="325" type="line"/>
+      <point x="492" y="357"/>
+      <point x="555" y="370"/>
+      <point x="613" y="370" type="curve" smooth="yes"/>
+      <point x="669" y="370"/>
+      <point x="714" y="350"/>
+      <point x="748" y="277" type="curve"/>
+    </contour>
+    <contour>
+      <point x="102" y="496"/>
+      <point x="40" y="444"/>
+      <point x="40" y="303" type="curve" smooth="yes"/>
+      <point x="40" y="163"/>
+      <point x="102" y="110"/>
+      <point x="233" y="110" type="curve" smooth="yes"/>
+      <point x="306" y="110"/>
+      <point x="350" y="126"/>
+      <point x="393" y="150" type="curve"/>
+      <point x="393" y="218" type="line"/>
+      <point x="347" y="198"/>
+      <point x="310" y="192"/>
+      <point x="252" y="192" type="curve" smooth="yes"/>
+      <point x="143" y="192"/>
+      <point x="112" y="214"/>
+      <point x="112" y="302" type="curve" smooth="yes"/>
+      <point x="112" y="392"/>
+      <point x="144" y="414"/>
+      <point x="251" y="414" type="curve" smooth="yes"/>
+      <point x="312" y="414"/>
+      <point x="347" y="407"/>
+      <point x="392" y="387" type="curve"/>
+      <point x="392" y="459" type="line"/>
+      <point x="348" y="481"/>
+      <point x="304" y="496"/>
+      <point x="233" y="496" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="382" y="614" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="614" type="line"/>
+    </contour>
+    <component base="sha-deva" xOffset="663"/>
+    <contour>
+      <point x="76" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="416" y="680" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sha-deva</string>
+    </dict>
+  </lib>
+</glyph>

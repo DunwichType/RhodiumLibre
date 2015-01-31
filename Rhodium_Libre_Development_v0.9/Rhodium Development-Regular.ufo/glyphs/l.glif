@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="301"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="46" y="710" type="line"/>
+      <point x="46" y="653" type="line"/>
+      <point x="114" y="625" type="line"/>
+      <point x="114" y="85" type="line"/>
+      <point x="46" y="55" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="266" y="55" type="line"/>
+      <point x="198" y="85" type="line"/>
+      <point x="198" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="156" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="281" y="502" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

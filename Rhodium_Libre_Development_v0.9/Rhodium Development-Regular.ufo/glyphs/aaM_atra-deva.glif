@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aaMatra-deva" format="1">
+  <advance width="260"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="96" y="614" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="680" type="line"/>
+      <point x="-10" y="604" type="line"/>
+      <point x="270" y="604" type="line"/>
+      <point x="270" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pa-deva</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bh_ra-deva" format="1">
+  <advance width="442"/>
+  <note>
+	dBhR.half
+  </note>
+  <outline>
+    <contour>
+      <point x="298" y="0" type="line"/>
+      <point x="562" y="289" type="line"/>
+      <point x="562" y="339" type="line"/>
+      <point x="218" y="339" type="line" smooth="yes"/>
+      <point x="161" y="339"/>
+      <point x="126" y="313"/>
+      <point x="126" y="248" type="curve" smooth="yes"/>
+      <point x="126" y="183"/>
+      <point x="162" y="158"/>
+      <point x="210" y="158" type="curve" smooth="yes"/>
+      <point x="258" y="158"/>
+      <point x="303" y="183"/>
+      <point x="303" y="250" type="curve" smooth="yes"/>
+      <point x="303" y="529" type="line" smooth="yes"/>
+      <point x="303" y="636"/>
+      <point x="258" y="688"/>
+      <point x="165" y="688" type="curve" smooth="yes"/>
+      <point x="78" y="688"/>
+      <point x="35" y="643"/>
+      <point x="35" y="554" type="curve" smooth="yes"/>
+      <point x="35" y="465"/>
+      <point x="78" y="425"/>
+      <point x="157" y="425" type="curve"/>
+      <point x="157" y="505" type="line"/>
+      <point x="116" y="505"/>
+      <point x="97" y="518"/>
+      <point x="97" y="555" type="curve" smooth="yes"/>
+      <point x="97" y="592"/>
+      <point x="116" y="606"/>
+      <point x="167" y="606" type="curve" smooth="yes"/>
+      <point x="212" y="606"/>
+      <point x="235" y="595"/>
+      <point x="235" y="520" type="curve" smooth="yes"/>
+      <point x="235" y="261" type="line"/>
+      <point x="483" y="261" type="line"/>
+      <point x="483" y="302" type="line"/>
+      <point x="199" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="75" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>bha-deva</string>
+    </dict>
+  </lib>
+</glyph>

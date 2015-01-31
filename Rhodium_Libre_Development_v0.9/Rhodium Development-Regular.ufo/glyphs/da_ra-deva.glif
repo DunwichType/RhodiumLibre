@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="da_ra-deva" format="1">
+  <advance width="548"/>
+  <outline>
+    <contour>
+      <point x="307" y="77" type="line"/>
+      <point x="100" y="-100" type="line"/>
+      <point x="211" y="-100" type="line"/>
+      <point x="411" y="77" type="line"/>
+    </contour>
+    <component base="da-deva"/>
+    <contour>
+      <point x="71" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="436" y="-41" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

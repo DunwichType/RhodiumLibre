@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddh_ya-deva" format="1">
+  <advance width="1130"/>
+  <outline>
+    <contour>
+      <point x="1034" y="0" type="line"/>
+      <point x="1034" y="614" type="line"/>
+      <point x="966" y="614" type="line"/>
+      <point x="966" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1140" y="604" type="line"/>
+      <point x="1140" y="680" type="line"/>
+      <point x="582" y="680" type="line"/>
+      <point x="582" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="976" y="192" type="line"/>
+      <point x="941" y="184"/>
+      <point x="904" y="180"/>
+      <point x="861" y="180" type="curve" smooth="yes"/>
+      <point x="768" y="180"/>
+      <point x="692" y="199"/>
+      <point x="668" y="281" type="curve"/>
+      <point x="685" y="281" type="line" smooth="yes"/>
+      <point x="783" y="281"/>
+      <point x="824" y="312"/>
+      <point x="824" y="400" type="curve" smooth="yes"/>
+      <point x="824" y="472"/>
+      <point x="796" y="501"/>
+      <point x="730" y="501" type="curve" smooth="yes"/>
+      <point x="483" y="501" type="line"/>
+      <point x="483" y="423" type="line"/>
+      <point x="700" y="423" type="line" smooth="yes"/>
+      <point x="733" y="423"/>
+      <point x="750" y="418"/>
+      <point x="750" y="387" type="curve" smooth="yes"/>
+      <point x="750" y="355"/>
+      <point x="732" y="345"/>
+      <point x="685" y="345" type="curve" smooth="yes"/>
+      <point x="598" y="345" type="line"/>
+      <point x="598" y="330" type="line" smooth="yes"/>
+      <point x="598" y="171"/>
+      <point x="699" y="98"/>
+      <point x="858" y="98" type="curve" smooth="yes"/>
+      <point x="904" y="98"/>
+      <point x="940" y="104"/>
+      <point x="976" y="115" type="curve"/>
+    </contour>
+    <component base="ddha-deva"/>
+    <contour>
+      <point x="1000" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1000" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ddh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ya-deva</string>
+    </dict>
+  </lib>
+</glyph>

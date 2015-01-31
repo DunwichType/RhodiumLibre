@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ca_ra-deva" format="1">
+  <advance width="665"/>
+  <outline>
+    <contour>
+      <point x="203" y="-100" type="line"/>
+      <point x="509" y="201" type="line"/>
+      <point x="411" y="201" type="line"/>
+      <point x="99" y="-100" type="line"/>
+    </contour>
+    <component base="ca-deva"/>
+    <contour>
+      <point x="79" y="65" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

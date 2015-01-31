@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nna_ra-deva" format="1">
+  <advance width="794"/>
+  <note>
+	dNnRa
+  </note>
+  <outline>
+    <contour>
+      <point x="331" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="640" y="236" type="line"/>
+      <point x="640" y="333" type="line"/>
+    </contour>
+    <component base="nna-deva"/>
+    <contour>
+      <point x="261" y="65" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

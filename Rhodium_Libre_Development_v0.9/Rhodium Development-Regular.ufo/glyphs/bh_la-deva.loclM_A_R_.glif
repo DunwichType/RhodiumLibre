@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bh_la-deva.loclMAR" format="1">
+  <advance width="663"/>
+  <outline>
+    <contour>
+      <point x="567" y="40" type="line"/>
+      <point x="567" y="614" type="line"/>
+      <point x="505" y="614" type="line"/>
+      <point x="505" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="604" type="line"/>
+      <point x="673" y="680" type="line"/>
+      <point x="352" y="680" type="line"/>
+      <point x="352" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="272" type="line"/>
+      <point x="527" y="272" type="line"/>
+      <point x="527" y="344" type="line"/>
+      <point x="185" y="344" type="line" smooth="yes"/>
+      <point x="128" y="344"/>
+      <point x="94" y="317"/>
+      <point x="94" y="256" type="curve" smooth="yes"/>
+      <point x="94" y="190"/>
+      <point x="133" y="166"/>
+      <point x="180" y="166" type="curve" smooth="yes"/>
+      <point x="226" y="166"/>
+      <point x="260" y="190"/>
+      <point x="260" y="258" type="curve" smooth="yes"/>
+      <point x="260" y="559" type="line" smooth="yes"/>
+      <point x="260" y="654"/>
+      <point x="218" y="688"/>
+      <point x="149" y="688" type="curve" smooth="yes"/>
+      <point x="75" y="688"/>
+      <point x="35" y="648"/>
+      <point x="35" y="570" type="curve" smooth="yes"/>
+      <point x="35" y="495"/>
+      <point x="72" y="451"/>
+      <point x="147" y="451" type="curve"/>
+      <point x="147" y="519" type="line"/>
+      <point x="116" y="519"/>
+      <point x="93" y="531"/>
+      <point x="93" y="569" type="curve" smooth="yes"/>
+      <point x="93" y="600"/>
+      <point x="108" y="618"/>
+      <point x="146" y="618" type="curve" smooth="yes"/>
+      <point x="181" y="618"/>
+      <point x="198" y="603"/>
+      <point x="198" y="548" type="curve" smooth="yes"/>
+    </contour>
+    <component base="la-deva.loclMAR.post" xOffset="48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>bh-deva</string>
+    </dict>
+  </lib>
+</glyph>

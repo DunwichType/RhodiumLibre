@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal.lf" format="1">
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="70" y="395" type="line"/>
+      <point x="70" y="323" type="line"/>
+      <point x="576" y="88" type="line"/>
+      <point x="576" y="177" type="line"/>
+      <point x="157" y="359" type="line"/>
+      <point x="576" y="541" type="line"/>
+      <point x="576" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="78" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_da_uuMatra-deva" format="1">
+  <advance width="573"/>
+  <outline>
+    <component base="d_da-deva"/>
+    <component base="uuMatra-deva" xOffset="345" yOffset="-158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uuMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

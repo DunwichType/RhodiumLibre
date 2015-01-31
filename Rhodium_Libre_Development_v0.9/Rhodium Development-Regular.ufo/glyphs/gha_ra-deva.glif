@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gha_ra-deva" format="1">
+  <advance width="598"/>
+  <note>
+	dGhRa
+  </note>
+  <outline>
+    <contour>
+      <point x="182" y="-100" type="line"/>
+      <point x="454" y="156" type="line"/>
+      <point x="353" y="156" type="line"/>
+      <point x="76" y="-100" type="line"/>
+    </contour>
+    <component base="gha-deva"/>
+    <contour>
+      <point x="99" y="47" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>gha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=-10</string>
+    </dict>
+  </lib>
+</glyph>

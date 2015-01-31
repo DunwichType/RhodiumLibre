@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ja_ra-deva" format="1">
+  <advance width="694"/>
+  <outline>
+    <contour>
+      <point x="546" y="216" type="line"/>
+      <point x="167" y="-100" type="line"/>
+      <point x="280" y="-100" type="line"/>
+      <point x="546" y="125" type="line"/>
+    </contour>
+    <component base="ja-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ja-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ra-deva</string>
+    </dict>
+  </lib>
+</glyph>

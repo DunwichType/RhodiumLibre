@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tha_ra-deva" format="1">
+  <advance width="639"/>
+  <note>
+	dThRa
+  </note>
+  <outline>
+    <contour>
+      <point x="224" y="-100" type="line"/>
+      <point x="484" y="194" type="line"/>
+      <point x="391" y="194" type="line"/>
+      <point x="127" y="-100" type="line"/>
+    </contour>
+    <component base="tha-deva"/>
+  </outline>
+</glyph>

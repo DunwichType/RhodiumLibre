@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_n_ya-deva" format="1">
+  <advance width="895"/>
+  <outline>
+    <component base="g_n-deva"/>
+    <component base="ya-deva" xOffset="318"/>
+  </outline>
+</glyph>

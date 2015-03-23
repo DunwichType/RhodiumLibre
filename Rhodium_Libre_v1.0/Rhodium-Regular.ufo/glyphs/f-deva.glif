@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f-deva" format="1">
+  <advance width="682"/>
+  <note>
+	dF.half
+  </note>
+  <outline>
+    <component base="ph-deva"/>
+    <component base="nukta-deva" xOffset="26" yOffset="190"/>
+  </outline>
+</glyph>

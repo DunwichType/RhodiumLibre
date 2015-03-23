@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBindu-deva" format="1">
+  <advance width="250"/>
+  <unicode hex="0901"/>
+  <note>
+	dCandrabindu
+  </note>
+  <outline>
+    <component base="anusvara-deva" yOffset="120"/>
+    <component base="eCandraMatra-deva" xOffset="5"/>
+    <contour>
+      <point x="130" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

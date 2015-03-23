@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBindu-deva.offset" format="1">
+  <advance width="250"/>
+  <outline>
+    <component base="candraBindu-deva" yOffset="122"/>
+    <contour>
+      <point x="0" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

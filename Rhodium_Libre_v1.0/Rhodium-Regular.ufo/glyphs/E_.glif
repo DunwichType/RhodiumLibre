@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="692"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="55" y="680" type="line"/>
+      <point x="55" y="623" type="line"/>
+      <point x="129" y="594" type="line"/>
+      <point x="129" y="85" type="line"/>
+      <point x="55" y="55" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="187" type="line"/>
+      <point x="581" y="187" type="line"/>
+      <point x="555" y="72" type="line"/>
+      <point x="215" y="72" type="line"/>
+      <point x="215" y="306" type="line"/>
+      <point x="414" y="306" type="line"/>
+      <point x="429" y="229" type="line"/>
+      <point x="484" y="229" type="line"/>
+      <point x="484" y="455" type="line"/>
+      <point x="429" y="455" type="line"/>
+      <point x="414" y="378" type="line"/>
+      <point x="215" y="378" type="line"/>
+      <point x="215" y="608" type="line"/>
+      <point x="555" y="608" type="line"/>
+      <point x="581" y="503" type="line"/>
+      <point x="640" y="503" type="line"/>
+      <point x="640" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="380" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="375" y="680" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

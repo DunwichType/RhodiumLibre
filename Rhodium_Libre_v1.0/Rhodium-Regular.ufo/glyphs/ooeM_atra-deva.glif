@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooeMatra-deva" format="1">
+  <advance width="260"/>
+  <unicode hex="093B"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="oeMatra-deva" xOffset="5"/>
+  </outline>
+</glyph>

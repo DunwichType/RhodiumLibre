@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lll-deva" format="1">
+  <advance width="659"/>
+  <note>
+	dLll.half
+  </note>
+  <outline>
+    <component base="ll-deva"/>
+    <component base="nukta-deva" xOffset="-23" yOffset="60"/>
+  </outline>
+</glyph>

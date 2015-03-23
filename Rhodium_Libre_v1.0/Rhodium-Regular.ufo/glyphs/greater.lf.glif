@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.lf" format="1">
+  <advance width="646"/>
+  <outline>
+    <component base="less.lf" xOffset="646" xScale="-1"/>
+  </outline>
+</glyph>

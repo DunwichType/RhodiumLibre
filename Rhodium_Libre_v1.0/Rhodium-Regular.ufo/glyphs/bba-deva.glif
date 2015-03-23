@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bba-deva" format="1">
+  <advance width="594"/>
+  <unicode hex="097F"/>
+  <outline>
+    <contour>
+      <point x="9" y="26" type="line"/>
+      <point x="9" y="-36" type="line"/>
+      <point x="498" y="-36" type="line"/>
+      <point x="498" y="26" type="line"/>
+    </contour>
+    <component base="ba-deva"/>
+  </outline>
+</glyph>

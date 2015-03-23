@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pha_ra-deva" format="1">
+  <advance width="864"/>
+  <note>
+	dPhRa
+  </note>
+  <outline>
+    <contour>
+      <point x="189" y="-25" type="line"/>
+      <point x="458" y="241" type="line"/>
+      <point x="361" y="241" type="line"/>
+      <point x="86" y="-25" type="line"/>
+    </contour>
+    <component base="pha-deva"/>
+    <contour>
+      <point x="86" y="120" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

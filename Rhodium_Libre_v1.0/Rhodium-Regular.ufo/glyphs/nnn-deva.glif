@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnn-deva" format="1">
+  <advance width="335"/>
+  <note>
+	dNnn.half
+  </note>
+  <outline>
+    <component base="n-deva"/>
+    <component base="nukta-deva" xOffset="-20" yOffset="125"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ma_ra-deva" format="1">
+  <advance width="621"/>
+  <note>
+	dMRa
+  </note>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="467" y="244" type="line"/>
+      <point x="375" y="244" type="line"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <component base="ma-deva"/>
+    <contour>
+      <point x="44" y="45" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

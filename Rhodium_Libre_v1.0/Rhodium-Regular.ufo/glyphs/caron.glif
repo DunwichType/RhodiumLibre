@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="500"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <component base="circumflex" yOffset="1328" yScale="-1"/>
+    <contour>
+      <point x="250" y="502" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

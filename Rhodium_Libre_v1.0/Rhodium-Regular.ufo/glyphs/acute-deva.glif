@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute-deva" format="1">
+  <advance width="250"/>
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="-186" y="980" type="line"/>
+      <point x="-420" y="740" type="line"/>
+      <point x="-329" y="740" type="line"/>
+      <point x="-86" y="980" type="line"/>
+    </contour>
+    <contour>
+      <point x="-375" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

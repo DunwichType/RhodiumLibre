@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_ra_ya-deva" format="1">
+  <advance width="895"/>
+  <outline>
+    <component base="g_ra-deva"/>
+    <component base="ya-deva" xOffset="318"/>
+    <contour>
+      <point x="0" y="82" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

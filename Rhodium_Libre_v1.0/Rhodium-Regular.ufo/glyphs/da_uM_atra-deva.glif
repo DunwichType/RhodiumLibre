@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="da_uMatra-deva" format="1">
+  <advance width="543"/>
+  <outline>
+    <component base="da-deva"/>
+    <component base="uMatra-deva" xOffset="310"/>
+    <contour>
+      <point x="71" y="0" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

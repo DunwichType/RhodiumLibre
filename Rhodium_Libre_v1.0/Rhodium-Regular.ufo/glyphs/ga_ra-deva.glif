@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ga_ra-deva" format="1">
+  <advance width="590"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="434" y="207" type="line"/>
+      <point x="434" y="300" type="line"/>
+      <point x="76" y="0" type="line"/>
+    </contour>
+    <component base="ga-deva"/>
+    <contour>
+      <point x="0" y="82" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

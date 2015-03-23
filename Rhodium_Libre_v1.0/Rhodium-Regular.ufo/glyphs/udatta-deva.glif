@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udatta-deva" format="1">
+  <advance width="250"/>
+  <unicode hex="0951"/>
+  <outline>
+    <contour>
+      <point x="96" y="1100" type="line"/>
+      <point x="96" y="730" type="line"/>
+      <point x="154" y="730" type="line"/>
+      <point x="154" y="1100" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

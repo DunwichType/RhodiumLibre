@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nya_ra-deva" format="1">
+  <advance width="750"/>
+  <note>
+	dNyRa
+  </note>
+  <outline>
+    <contour>
+      <point x="599" y="216" type="line"/>
+      <point x="219" y="-100" type="line"/>
+      <point x="332" y="-100" type="line"/>
+      <point x="599" y="125" type="line"/>
+    </contour>
+    <component base="nya-deva"/>
+  </outline>
+</glyph>

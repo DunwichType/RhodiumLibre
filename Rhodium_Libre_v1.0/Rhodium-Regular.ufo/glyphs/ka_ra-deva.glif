@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka_ra-deva" format="1">
+  <advance width="832"/>
+  <outline>
+    <contour>
+      <point x="307" y="166" type="line"/>
+      <point x="111" y="-25" type="line"/>
+      <point x="214" y="-25" type="line"/>
+      <point x="404" y="166" type="line"/>
+    </contour>
+    <component base="ka-deva"/>
+    <contour>
+      <point x="40" y="65" type="move" name="nukta"/>
+    </contour>
+  </outline>
+</glyph>

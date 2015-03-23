@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra-deva.03" format="1">
+  <advance width="260"/>
+  <outline>
+    <contour>
+      <point x="150" y="970"/>
+      <point x="70" y="912"/>
+      <point x="70" y="793" type="curve" smooth="yes"/>
+      <point x="70" y="751"/>
+      <point x="80" y="707"/>
+      <point x="98" y="670" type="curve"/>
+      <point x="162" y="670" type="line"/>
+      <point x="146" y="709"/>
+      <point x="138" y="743"/>
+      <point x="138" y="781" type="curve" smooth="yes"/>
+      <point x="138" y="867"/>
+      <point x="178" y="894"/>
+      <point x="325" y="894" type="curve" smooth="yes"/>
+      <point x="500" y="894"/>
+      <point x="619" y="856"/>
+      <point x="787" y="740" type="curve"/>
+      <point x="787" y="815" type="line"/>
+      <point x="642" y="916"/>
+      <point x="494" y="970"/>
+      <point x="323" y="970" type="curve" smooth="yes"/>
+    </contour>
+    <component base="aaMatra-deva"/>
+    <contour>
+      <point x="767" y="740" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="753" y="810" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

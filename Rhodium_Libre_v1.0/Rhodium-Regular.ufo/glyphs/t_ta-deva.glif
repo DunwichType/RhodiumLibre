@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ta-deva" format="1">
+  <advance width="638"/>
+  <outline>
+    <contour>
+      <point x="388" y="371" type="line"/>
+      <point x="388" y="449" type="line"/>
+      <point x="0" y="449" type="line"/>
+      <point x="0" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="614" type="line"/>
+      <point x="474" y="614" type="line"/>
+      <point x="474" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="604" type="line"/>
+      <point x="648" y="680" type="line"/>
+      <point x="-10" y="680" type="line"/>
+      <point x="-10" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="207"/>
+      <point x="135" y="116"/>
+      <point x="181" y="0" type="curve"/>
+      <point x="253" y="0" type="line"/>
+      <point x="214" y="111"/>
+      <point x="188" y="197"/>
+      <point x="188" y="265" type="curve" smooth="yes"/>
+      <point x="188" y="341"/>
+      <point x="221" y="371"/>
+      <point x="307" y="371" type="curve" smooth="yes"/>
+      <point x="491" y="371" type="line"/>
+      <point x="491" y="449" type="line"/>
+      <point x="299" y="449" type="line" smooth="yes"/>
+      <point x="165" y="449"/>
+      <point x="112" y="398"/>
+      <point x="112" y="283" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="89" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="508" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="508" y="680" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

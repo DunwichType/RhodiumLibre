@@ -1,6 +1,8 @@
-Rhodium Libre v1.0
+# Rhodium Libre Development
 
 Rhodium Libre is a font developed by James Puckett of Dunwich Type Founders.
+
+These development files are supplied only for the purposes of testing, study, and review. Please only use released versions in production environments, available from https://github.com/DunwichType/RhodiumLibre/releases
 
 Rhodium Libre was designed for use on screens at small sizes and the Latin and Devanagari scripts. To that end, the design is generally uncomplicated and coarse, lacking the small details that are lost on screens; this also reduces the file size to improve latency when used as a web font. The letters are designed slightly wide, with open counters, a large x-height in the Latin glyphs, and so on. The Devanagari glyphs are the same height as the Latin capitals to allow them to stand alongside the oversized Latin lowercase. 
 
@@ -18,8 +20,8 @@ Dunwich Type Founders cares what you think! Please file issues on the Github pro
 
 Thanks to:
 
-Dave Crossland
-Georg Seifert
-Rob Keller and Kimya Gandhi (Mota Italic)
-John Hudson
-Fiona Ross
+* Dave Crossland
+* Georg Seifert
+* Rob Keller and Kimya Gandhi (Mota Italic)
+* John Hudson
+* Fiona Ross

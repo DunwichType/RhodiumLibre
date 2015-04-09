@@ -1,0 +1,1494 @@
+# Prefix: DevaRemoveReph
+# automatic
+lookup removeReph {
+	sub ka-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ka-deva;
+	sub kha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kha-deva;
+	sub ga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ga-deva;
+	sub gha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gha-deva;
+	sub nga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nga-deva;
+	sub ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ca-deva;
+	sub cha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by cha-deva;
+	sub ja-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ja-deva;
+	sub jha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by jha-deva;
+	sub jha-deva.loclNEP [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by jha-deva.loclNEP;
+	sub nya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nya-deva;
+	sub tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tta-deva;
+	sub ttha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ttha-deva;
+	sub dda-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dda-deva;
+	sub ddha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddha-deva;
+	sub nna-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nna-deva;
+	sub ta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ta-deva;
+	sub tha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tha-deva;
+	sub da-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da-deva;
+	sub dha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dha-deva;
+	sub na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by na-deva;
+	sub nnna-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nnna-deva;
+	sub pa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by pa-deva;
+	sub pha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by pha-deva;
+	sub ba-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ba-deva;
+	sub bha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bha-deva;
+	sub ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ma-deva;
+	sub ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ya-deva;
+	sub ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ra-deva;
+	sub rra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by rra-deva;
+	sub la-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by la-deva;
+	sub la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by la-deva.loclMAR;
+	sub lla-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by lla-deva;
+	sub llla-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by llla-deva;
+	sub va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by va-deva;
+	sub sha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sha-deva;
+	sub sha-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sha-deva.loclMAR;
+	sub ssa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ssa-deva;
+	sub sa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sa-deva;
+	sub ha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ha-deva;
+	sub qa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by qa-deva;
+	sub khha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by khha-deva;
+	sub ghha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ghha-deva;
+	sub za-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by za-deva;
+	sub dddha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dddha-deva;
+	sub rha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by rha-deva;
+	sub fa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by fa-deva;
+	sub yya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by yya-deva;
+	sub zha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by zha-deva;
+	sub zha-deva.loclNEP [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by zha-deva.loclNEP;
+	sub jjya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by jjya-deva;
+	sub gga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gga-deva;
+	sub jja-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by jja-deva;
+	sub ddda-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddda-deva;
+	sub bba-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bba-deva;
+	sub ka_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ka_ra-deva;
+	sub ka_ra-deva.loclNEP [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ka_ra-deva.loclNEP;
+	sub k_ka-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ka-deva;
+	sub k_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ca-deva;
+	sub k_t_ta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_t_ta-deva;
+	sub k_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_la-deva.loclMAR;
+	sub k_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_va-deva;
+	sub k_sha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_sha-deva;
+	sub k_ssa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ssa-deva;
+	sub k_ssa_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ssa_ra-deva;
+	sub k_ss_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ss_ma-deva;
+	sub k_ss_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by k_ss_ya-deva;
+	sub kha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kha_ra-deva;
+	sub kh_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kh_na-deva;
+	sub kh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kh_ra-deva;
+	sub kh_ra_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kh_ra_ya-deva;
+	sub kh_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by kh_la-deva.loclMAR;
+	sub ga_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ga_ra-deva;
+	sub g_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by g_na-deva;
+	sub g_n_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by g_n_ya-deva;
+	sub g_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by g_ra-deva;
+	sub g_ra_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by g_ra_ya-deva;
+	sub g_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by g_la-deva.loclMAR;
+	sub gha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gha_ra-deva;
+	sub gh_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gh_na-deva;
+	sub gh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gh_ra-deva;
+	sub gh_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by gh_la-deva.loclMAR;
+	sub ng_ka-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_ka-deva;
+	sub ng_ka_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_ka_ra-deva;
+	sub ng_k_t_ta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_k_t_ta-deva;
+	sub ng_k_ssa-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_k_ssa-deva;
+	sub ng_kha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_kha-deva;
+	sub ng_ga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_ga-deva;
+	sub ng_ga_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_ga_ra-deva;
+	sub ng_gha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_gha-deva;
+	sub ng_gha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_gha_ra-deva;
+	sub ng_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ng_ma-deva;
+	sub ca_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ca_ra-deva;
+	sub c_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by c_ca-deva;
+	sub c_cha_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by c_cha_va-deva;
+	sub c_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by c_la-deva.loclMAR;
+	sub ch_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ch_na-deva;
+	sub ch_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ch_la-deva.loclMAR;
+	sub ch_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ch_va-deva;
+	sub ja_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ja_ra-deva;
+	sub j_nya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by j_nya-deva;
+	sub j_nya_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by j_nya_ra-deva;
+	sub j_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by j_na-deva;
+	sub j_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by j_ya-deva;
+	sub j_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by j_ra-deva;
+	sub jha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by jha_ra-deva;
+	sub nya_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nya_ra-deva;
+	sub ny_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ny_ca-deva;
+	sub ny_ja-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ny_ja-deva;
+	sub tt_tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_tta-deva;
+	sub tt_tt_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_tt_ya-deva;
+	sub tt_ttha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_ttha-deva;
+	sub tt_ddha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_ddha-deva;
+	sub tt_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_na-deva;
+	sub tt_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_ya-deva;
+	sub tt_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tt_va-deva;
+	sub tth_ttha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tth_ttha-deva;
+	sub tth_tth_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tth_tth_ya-deva;
+	sub tth_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tth_na-deva;
+	sub tth_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tth_ya-deva;
+	sub dd_gha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_gha-deva;
+	sub dd_tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_tta-deva;
+	sub dd_dda-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_dda-deva;
+	sub dd_dd_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_dd_ya-deva;
+	sub dd_ddha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_ddha-deva;
+	sub dd_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_na-deva;
+	sub dd_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_ma-deva;
+	sub dd_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dd_ya-deva;
+	sub ddh_ddha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddh_ddha-deva;
+	sub ddh_ddh_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddh_ddh_ya-deva;
+	sub ddh_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddh_na-deva;
+	sub ddh_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ddh_ya-deva;
+	sub nna_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nna_ra-deva;
+	sub ta_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ta_ra-deva;
+	sub t_ta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by t_ta-deva;
+	sub t_tha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by t_tha-deva;
+	sub t_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by t_na-deva;
+	sub t_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by t_ya-deva;
+	sub t_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by t_ra-deva;
+	sub tha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by tha_ra-deva;
+	sub da_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_ra-deva;
+	sub da_ra_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_ra_uMatra-deva;
+	sub da_ra_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_ra_uuMatra-deva;
+	sub da_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_uMatra-deva;
+	sub da_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_uuMatra-deva;
+	sub da_rVocalicMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by da_rVocalicMatra-deva;
+	sub d_ga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ga-deva;
+	sub d_ga_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ga_ra-deva;
+	sub d_ga_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ga_uMatra-deva;
+	sub d_ga_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ga_uuMatra-deva;
+	sub d_gha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_gha-deva;
+	sub d_gha_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_gha_uMatra-deva;
+	sub d_gha_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_gha_uuMatra-deva;
+	sub d_gh_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_gh_ya-deva;
+	sub d_da-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_da-deva;
+	sub d_da_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_da_uMatra-deva;
+	sub d_da_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_da_uuMatra-deva;
+	sub d_d_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_d_ya-deva;
+	sub d_dha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_dha-deva;
+	sub d_dha_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_dha_uMatra-deva;
+	sub d_dha_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_dha_uuMatra-deva;
+	sub d_dh_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_dh_ya-deva;
+	sub d_dh_ra_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_dh_ra_ya-deva;
+	sub d_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_na-deva;
+	sub d_na_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_na_uMatra-deva;
+	sub d_na_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_na_uuMatra-deva;
+	sub d_ba-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ba-deva;
+	sub d_ba_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ba_ra-deva;
+	sub d_ba_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ba_uMatra-deva;
+	sub d_ba_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ba_uuMatra-deva;
+	sub d_bha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_bha-deva;
+	sub d_bha_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_bha_uMatra-deva;
+	sub d_bha_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_bha_uuMatra-deva;
+	sub d_bh_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_bh_ya-deva;
+	sub d_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ma-deva;
+	sub d_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ya-deva;
+	sub d_ra_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_ra_ya-deva;
+	sub d_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_va-deva;
+	sub d_va_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_va_uMatra-deva;
+	sub d_va_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_va_uuMatra-deva;
+	sub d_v_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by d_v_ya-deva;
+	sub dha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dha_ra-deva;
+	sub dh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by dh_ra-deva;
+	sub na_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by na_ra-deva;
+	sub n_ga-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_ga-deva;
+	sub n_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_ca-deva;
+	sub n_nya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_nya-deva;
+	sub n_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_na-deva;
+	sub n_n_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_n_ya-deva;
+	sub n_bha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_bha-deva;
+	sub n_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_ma-deva;
+	sub n_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by n_ra-deva;
+	sub pa_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by pa_ra-deva;
+	sub pa_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by pa_la-deva.loclMAR;
+	sub p_jha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by p_jha-deva;
+	sub p_tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by p_tta-deva;
+	sub pha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by pha_ra-deva;
+	sub ph_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ph_la-deva.loclMAR;
+	sub ba_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ba_ra-deva;
+	sub b_ja-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by b_ja-deva;
+	sub b_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by b_na-deva;
+	sub b_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by b_ya-deva;
+	sub b_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by b_la-deva.loclMAR;
+	sub bha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bha_ra-deva;
+	sub bh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bh_ra-deva;
+	sub bh_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by bh_la-deva.loclMAR;
+	sub ma_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ma_ra-deva;
+	sub m_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by m_ra-deva;
+	sub m_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by m_la-deva.loclMAR;
+	sub ya_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ya_ra-deva;
+	sub y_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by y_ra-deva;
+	sub ra_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ra_uMatra-deva;
+	sub ra_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ra_uuMatra-deva;
+	sub rr_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by rr_ya-deva;
+	sub rr_ha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by rr_ha-deva;
+	sub la_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by la_ra-deva;
+	sub l_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by l_ca-deva;
+	sub l_bha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by l_bha-deva;
+	sub l_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by l_la-deva.loclMAR;
+	sub va_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by va_ra-deva;
+	sub v_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_na-deva;
+	sub v_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_ya-deva;
+	sub v_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_ra-deva;
+	sub v_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_la-deva.loclMAR;
+	sub v_ha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by v_ha-deva;
+	sub sha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sha_ra-deva;
+	sub sh_ca-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_ca-deva;
+	sub sh_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_na-deva;
+	sub sh_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_ra-deva;
+	sub sh_la-deva.loclMAR [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_la-deva.loclMAR;
+	sub sh_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sh_va-deva;
+	sub ssa_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ssa_ra-deva;
+	sub ss_tta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tta-deva;
+	sub ss_tt_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tt_ya-deva;
+	sub ss_tt_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tt_va-deva;
+	sub ss_ttha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_ttha-deva;
+	sub ss_tth_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tth_ya-deva;
+	sub ss_tth_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ss_tth_va-deva;
+	sub sa_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by sa_ra-deva;
+	sub s_ta_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by s_ta_ra-deva;
+	sub s_tha-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by s_tha-deva;
+	sub ha_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ha_ra-deva;
+	sub ha_uMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ha_uMatra-deva;
+	sub ha_uuMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ha_uuMatra-deva;
+	sub ha_rVocalicMatra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by ha_rVocalicMatra-deva;
+	sub h_nna-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_nna-deva;
+	sub h_na-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_na-deva;
+	sub h_ma-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_ma-deva;
+	sub h_ya-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_ya-deva;
+	sub h_la-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_la-deva;
+	sub h_va-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by h_va-deva;
+	sub fa_ra-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by fa_ra-deva;
+	sub nukta-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by nukta-deva;
+	sub rakar-deva [ reph-deva reph_anusvara-deva candraBindu-deva anusvara-deva ] by rakar-deva;
+} removeReph;
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem deva dflt;
+languagesystem latn dflt;
+languagesystem deva dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem dev2 NEP;
+languagesystem deva NEP;
+languagesystem dev2 MAR;
+languagesystem deva MAR;
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent H I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W X Y Yacute Ydieresis Z Zacute Zcaron Zdotaccent Delta Omega ];
+
+# automatic
+@DevaIMatras = [ iMatra-deva iMatra-deva.01 iMatra-deva.02 iMatra-deva.03 iMatra-deva.04 iMatra-deva.05 iMatra-deva.06 iMatra-deva.07 iMatra-deva.08 iMatra-deva.09 ];
+
+# automatic
+@DevaFullforms = [ aCandra-deva a-deva aa-deva eCandra-deva oCandra-deva aaMatra-deva iMatra-deva iMatra-deva.01 iMatra-deva.02 iMatra-deva.03 iMatra-deva.04 iMatra-deva.05 iMatra-deva.06 iMatra-deva.07 iMatra-deva.08 iMatra-deva.09 iiMatra-deva iiMatra-deva.01 iiMatra-deva.02 iiMatra-deva.03 iiMatra-deva.04 iiMatra_reph_anusvara-deva iiMatra_reph_anusvara-deva.01 iiMatra_reph_anusvara-deva.02 iiMatra_reph_anusvara-deva.03 iiMatra_reph_anusvara-deva.04 oCandraMatra-deva oShortMatra-deva oMatra-deva oMatra_anusvara-deva oMatra_reph_anusvara-deva auMatra-deva auMatra_anusvara-deva auMatra_reph_anusvara-deva ooeMatra-deva awMatra-deva ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva jha-deva.loclNEP nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva la-deva.loclMAR lla-deva llla-deva va-deva sha-deva sha-deva.loclMAR ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva zha-deva.loclNEP jjya-deva gga-deva jja-deva ddda-deva bba-deva ka_ra-deva ka_ra-deva.loclNEP k_ka-deva k_ca-deva k_t_ta-deva k_la-deva.loclMAR k_va-deva k_sha-deva k_ssa-deva k_ssa_ra-deva k_ss_ma-deva k_ss_ya-deva kha_ra-deva kh_na-deva kh_ra-deva kh_ra_ya-deva kh_la-deva.loclMAR ga_ra-deva g_na-deva g_n_ya-deva g_ra-deva g_ra_ya-deva g_la-deva.loclMAR gha_ra-deva gh_na-deva gh_ra-deva gh_la-deva.loclMAR ng_ka-deva ng_ka_ra-deva ng_k_t_ta-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_ga_ra-deva ng_gha-deva ng_gha_ra-deva ng_ma-deva ca_ra-deva c_ca-deva c_cha_va-deva c_la-deva.loclMAR ch_na-deva ch_la-deva.loclMAR ch_va-deva ja_ra-deva j_nya-deva j_nya_ra-deva j_na-deva j_ya-deva j_ra-deva jha_ra-deva nya_ra-deva ny_ca-deva ny_ja-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nna_ra-deva ta_ra-deva t_ta-deva t_tha-deva t_na-deva t_ya-deva t_ra-deva tha_ra-deva da_ra-deva da_ra_uMatra-deva da_ra_uuMatra-deva da_uMatra-deva da_uuMatra-deva da_rVocalicMatra-deva d_ga-deva d_ga_ra-deva d_ga_uMatra-deva d_ga_uuMatra-deva d_gha-deva d_gha_uMatra-deva d_gha_uuMatra-deva d_gh_ya-deva d_da-deva d_da_uMatra-deva d_da_uuMatra-deva d_d_ya-deva d_dha-deva d_dha_uMatra-deva d_dha_uuMatra-deva d_dh_ya-deva d_dh_ra_ya-deva d_na-deva d_na_uMatra-deva d_na_uuMatra-deva d_ba-deva d_ba_ra-deva d_ba_uMatra-deva d_ba_uuMatra-deva d_bha-deva d_bha_uMatra-deva d_bha_uuMatra-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra_ya-deva d_va-deva d_va_uMatra-deva d_va_uuMatra-deva d_v_ya-deva dha_ra-deva dh_ra-deva na_ra-deva n_ga-deva n_ca-deva n_nya-deva n_na-deva n_n_ya-deva n_bha-deva n_ma-deva n_ra-deva pa_ra-deva pa_la-deva.loclMAR p_jha-deva p_tta-deva pha_ra-deva ph_la-deva.loclMAR ba_ra-deva b_ja-deva b_na-deva b_ya-deva b_la-deva.loclMAR bha_ra-deva bh_ra-deva bh_la-deva.loclMAR ma_ra-deva m_ra-deva m_la-deva.loclMAR ya_ra-deva y_ra-deva ra_uMatra-deva ra_uuMatra-deva rr_ya-deva rr_ha-deva la_ra-deva l_ca-deva l_bha-deva l_la-deva.loclMAR va_ra-deva v_na-deva v_ya-deva v_ra-deva v_la-deva.loclMAR v_ha-deva sha_ra-deva sh_ca-deva sh_na-deva sh_ra-deva sh_la-deva.loclMAR sh_va-deva ssa_ra-deva ss_tta-deva ss_tt_ya-deva ss_tt_va-deva ss_ttha-deva ss_tth_ya-deva ss_tth_va-deva sa_ra-deva s_ta_ra-deva s_tha-deva ha_ra-deva ha_uMatra-deva ha_uuMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_la-deva h_va-deva fa_ra-deva ];
+
+# automatic
+@DevaHalfforms = [ k-deva kh-deva g-deva gh-deva c-deva ch-deva j-deva jh-deva jh-deva.loclNEP ny-deva nn-deva t-deva th-deva dh-deva n-deva nnn-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva l-deva.loclMAR ll-deva lll-deva v-deva sh-deva sh-deva.loclMAR ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva f-deva ];
+
+# automatic
+@iDevaFullforms = [ ka-deva ga-deva gha-deva nga-deva ca-deva cha-deva tta-deva ttha-deva dda-deva ddha-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva ma-deva ya-deva ra-deva rra-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP ];
+
+@DevaiiMatras = [ iiMatra-deva iiMatra-deva.01 iiMatra-deva.02 iiMatra-deva.03 iiMatra-deva.04 ];
+
+@DevaRephMatras = [ iiMatra_reph-deva iiMatra_reph-deva.01 iiMatra_reph-deva.02 iiMatra_reph-deva.03 iiMatra_reph-deva.04 iiMatra_reph_anusvara-deva iiMatra_reph_anusvara-deva.01 iiMatra_reph_anusvara-deva.02 iiMatra_reph_anusvara-deva.03 iiMatra_reph_anusvara-deva.04 oMatra_reph-deva oMatra_reph_anusvara-deva auMatra_reph-deva auMatra_reph_anusvara-deva eMatra_reph-deva eMatra_reph_anusvara-deva aiMatra_reph-deva aiMatra_reph_anusvara-deva ];
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature mgrk;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature calt;
+feature onum;
+feature case;
+feature nukt;
+feature akhn;
+feature rphf;
+feature rkrf;
+feature blwf;
+feature half;
+feature cjct;
+feature pres;
+feature abvs;
+} aalt;
+
+feature ccmp {
+# automatic
+script dev2;
+sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
+sub e-deva eCandraMatra-deva by eCandra-deva;
+sub ii-deva i-deva by reph-deva;
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+sub danda-deva danda-deva by dbldanda-deva;
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub reph-deva.imatra anusvara-deva.imatra by reph_anusvara-deva.imatra;
+} ccmp;
+
+feature locl {
+script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+
+script dev2;
+sub space by space-deva;
+sub question by question-deva;
+language NEP;
+sub jha-deva by jha-deva.loclNEP;
+sub zha-deva by zha-deva.loclNEP;
+sub jh-deva by jh-deva.loclNEP;
+sub five-deva by five-deva.loclNEP;
+sub eight-deva by eight-deva.loclNEP;
+language MAR;
+sub la-deva by la-deva.loclMAR;
+sub sha-deva by sha-deva.loclMAR;
+sub l-deva by l-deva.loclMAR;
+sub sh-deva by sh-deva.loclMAR;
+sub reph-deva by reph-deva.loclMAR;
+
+script deva;
+sub space by space-deva;
+sub question by question-deva;
+} locl;
+
+feature mgrk {
+# automatic
+sub Delta by increment;
+sub Omega by Ohm;
+sub mu by micro;
+} mgrk;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature numr {
+# automatic
+sub one by one.numr;
+sub three by three.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub two by two.dnom;
+sub four by four.dnom;
+} dnom;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature lnum {
+# automatic
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub cent by cent.lf;
+sub currency by currency.lf;
+sub dollar by dollar.lf;
+sub euro by euro.lf;
+sub florin by florin.lf;
+sub liraTurkish by liraTurkish.lf;
+sub ruble by ruble.lf;
+sub rupeeIndian by rupeeIndian.lf;
+sub sterling by sterling.lf;
+sub yen by yen.lf;
+sub approxequal by approxequal.lf;
+sub asciitilde by asciitilde.lf;
+sub divide by divide.lf;
+sub equal by equal.lf;
+sub greater by greater.lf;
+sub greaterequal by greaterequal.lf;
+sub less by less.lf;
+sub lessequal by lessequal.lf;
+sub logicalnot by logicalnot.lf;
+sub minus by minus.lf;
+sub multiply by multiply.lf;
+sub notequal by notequal.lf;
+sub plus by plus.lf;
+sub plusminus by plusminus.lf;
+sub asciicircum by asciicircum.lf;
+} lnum;
+
+feature calt {
+# Make candraBindu
+sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
+
+# Offest Anusvara after matras
+sub [@DevaiiMatras aShort-deva eShort-deva eShortMatra-deva oShortMatra-deva ai-deva oShort-deva o-deva au-deva ] anusvara-deva' by anusvara-deva.offset;
+
+# Offest Anusvara after iMatras
+sub [@DevaIMatras] anusvara-deva' by anusvara-deva.imatra;
+sub @DevaIMatras @DevaFullforms anusvara-deva' by anusvara-deva.imatra;
+sub @DevaIMatras [@DevaFullforms @DevaHalfforms] @DevaFullforms anusvara-deva' by anusvara-deva.imatra;
+
+# Offset eCandraMatra after imatras
+sub [@DevaIMatras] eCandraMatra-deva' by eCandraMatra-deva.iMatra;
+
+# Offset eCandraMatra after vowels
+sub [@DevaiiMatras eMatra-deva oShortMatra-deva aiMatra-deva oMatra-deva aShort-deva eShort-deva ai-deva oShort-deva o-deva au-deva auMatra-deva] eCandraMatra-deva' by eCandraMatra-deva.offset;
+
+# Offset eCandraMtra after reph
+sub [reph-deva @DevaRephMatras] eCandraMatra-deva' by eCandraMatra-deva.reph;
+
+# Offset eCandraBindu after imatras
+sub @DevaIMatras candraBindu-deva' by candraBindu-deva.imatra;
+sub @DevaIMatras @DevaFullforms candraBindu-deva' by candraBindu-deva.imatra;
+sub @DevaIMatras [@DevaFullforms @DevaHalfforms] @DevaFullforms candraBindu-deva' by candraBindu-deva.imatra;
+
+# Offset eCandraBindu after vowels
+sub [@DevaiiMatras eMatra-deva eShortMatra-deva aiMatra-deva oMatra-deva oShortMatra-deva aShort-deva eShort-deva ai-deva oShort-deva o-deva au-deva auMatra-deva] candraBindu-deva' by candraBindu-deva.offset;
+
+# Offset eCandraBindu after reph
+sub [reph-deva @DevaRephMatras] candraBindu-deva' by candraBindu-deva.reph;
+
+sub e-deva eCandraMatra-deva by eCandra-deva;
+
+sub ii-deva by i-deva reph-deva;
+
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+
+sub danda-deva danda-deva by dbldanda-deva;
+
+# Use Alternate Indian Rupee when positioned next to Latin numerals
+sub rupeeIndian' [zero one two three four five six seven eight nine] by rupeeIndian.alt;
+} calt;
+
+feature onum {
+# automatic
+sub zero.lf by zero;
+sub one.lf by one;
+sub two.lf by two;
+sub three.lf by three;
+sub four.lf by four;
+sub five.lf by five;
+sub six.lf by six;
+sub seven.lf by seven;
+sub eight.lf by eight;
+sub nine.lf by nine;
+sub cent.lf by cent;
+sub currency.lf by currency;
+sub dollar.lf by dollar;
+sub euro.lf by euro;
+sub florin.lf by florin;
+sub liraTurkish.lf by liraTurkish;
+sub ruble.lf by ruble;
+sub rupeeIndian.lf by rupeeIndian;
+sub sterling.lf by sterling;
+sub yen.lf by yen;
+sub approxequal.lf by approxequal;
+sub asciitilde.lf by asciitilde;
+sub divide.lf by divide;
+sub equal.lf by equal;
+sub greater.lf by greater;
+sub greaterequal.lf by greaterequal;
+sub less.lf by less;
+sub lessequal.lf by lessequal;
+sub logicalnot.lf by logicalnot;
+sub minus.lf by minus;
+sub multiply.lf by multiply;
+sub notequal.lf by notequal;
+sub plus.lf by plus;
+sub plusminus.lf by plusminus;
+sub asciicircum.lf by asciicircum;
+} onum;
+
+feature case {
+# automatic
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub cent by cent.lf;
+sub currency by currency.lf;
+sub dollar by dollar.lf;
+sub euro by euro.lf;
+sub florin by florin.lf;
+sub liraTurkish by liraTurkish.lf;
+sub ruble by ruble.lf;
+sub rupeeIndian by rupeeIndian.lf;
+sub sterling by sterling.lf;
+sub yen by yen.lf;
+sub approxequal by approxequal.lf;
+sub asciitilde by asciitilde.lf;
+sub divide by divide.lf;
+sub equal by equal.lf;
+sub greater by greater.lf;
+sub greaterequal by greaterequal.lf;
+sub less by less.lf;
+sub lessequal by lessequal.lf;
+sub logicalnot by logicalnot.lf;
+sub minus by minus.lf;
+sub multiply by multiply.lf;
+sub notequal by notequal.lf;
+sub plus by plus.lf;
+sub plusminus by plusminus.lf;
+sub asciicircum by asciicircum.lf;
+} case;
+
+feature dlig {
+# automatic
+sub f i by f_i;
+sub f j by f_j;
+sub f l by f_l;
+} dlig;
+
+feature liga {
+# automatic
+sub f f l by f_f_l;
+sub f f i by f_f_i;
+sub f f by f_f;
+} liga;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
+feature nukt {
+# automatic
+script dev2;
+lookup NuktComp {
+	sub ka-deva nukta-deva by qa-deva;
+	sub kha-deva nukta-deva by khha-deva;
+	sub ga-deva nukta-deva by ghha-deva;
+	sub ja-deva nukta-deva by za-deva;
+	sub na-deva nukta-deva by nnna-deva;
+	sub pha-deva nukta-deva by fa-deva;
+	sub lla-deva nukta-deva by llla-deva;
+	sub ra-deva nukta-deva by rra-deva;
+} NuktComp;
+lookup NuktDecomp {
+	sub dddha-deva by dda-deva nukta-deva;
+	sub rha-deva by ddha-deva nukta-deva;
+	sub yya-deva by ya-deva nukta-deva;
+} NuktDecomp;
+
+language NEP;
+lookup NuktComp;
+lookup NuktDecomp;
+
+language MAR;
+lookup NuktComp;
+lookup NuktDecomp;
+
+script deva;
+lookup NuktComp;
+lookup NuktDecomp;
+
+language NEP;
+lookup NuktComp;
+lookup NuktDecomp;
+
+language MAR;
+lookup NuktComp;
+lookup NuktDecomp;
+} nukt;
+
+feature akhn {
+# automatic
+script dev2;
+lookup Akhn_devanagari {
+	sub k-deva ssa-deva by k_ssa-deva;
+	sub j-deva nya-deva by j_nya-deva;
+} Akhn_devanagari;
+language NEP;
+lookup Akhn_devanagari;
+language MAR;
+lookup Akhn_devanagari;
+script deva;
+lookup Akhn_devanagari;
+language NEP;
+lookup Akhn_devanagari;
+language MAR;
+lookup Akhn_devanagari;
+} akhn;
+
+feature rphf {
+# automatic
+script dev2;
+lookup Rphf_deva {
+	sub ra-deva halant-deva by reph-deva;
+} Rphf_deva;
+language NEP;
+lookup Rphf_deva;
+language MAR exclude_dflt;
+lookup Rphf_MAR {
+	sub ra-deva' halant-deva' zerowidthjoiner' by reph-deva.loclMAR;
+	sub ra-deva' halant-deva' [ha-deva ya-deva] by reph-deva.loclMAR;
+} Rphf_MAR;
+
+script deva;
+lookup Rphf_deva;
+language NEP exclude_dflt;
+lookup Rphf_MAR;
+language MAR exclude_dflt;
+lookup Rphf_MAR;
+} rphf;
+
+feature rkrf {
+# automatic
+script dev2;
+lookup rakar {
+	sub halant-deva ra-deva by rakar-deva;
+} rakar;
+language NEP;
+lookup rakar;
+language MAR;
+lookup rakar;
+
+script deva;
+lookup rakar;
+language NEP;
+lookup rakar;
+language MAR;
+lookup rakar;
+} rkrf;
+
+feature blwf {
+# automatic
+script dev2;
+sub rakar-deva uMatra-deva by rakar_uMatra-deva;
+sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
+script deva;
+sub ra-deva halant-deva by rakar-deva;
+} blwf;
+
+feature half {
+# automatic
+script dev2;
+lookup Half {
+	sub ka-deva halant-deva by k-deva;
+	sub kha-deva halant-deva by kh-deva;
+	sub ga-deva halant-deva by g-deva;
+	sub gha-deva halant-deva by gh-deva;
+	sub ca-deva halant-deva by c-deva;
+	sub cha-deva halant-deva by ch-deva;
+	sub ja-deva halant-deva by j-deva;
+	sub jha-deva halant-deva by jh-deva;
+	sub jha-deva.loclNEP halant-deva by jh-deva.loclNEP;
+	sub nya-deva halant-deva by ny-deva;
+	sub nna-deva halant-deva by nn-deva;
+	sub ta-deva halant-deva by t-deva;
+	sub tha-deva halant-deva by th-deva;
+	sub dha-deva halant-deva by dh-deva;
+	sub na-deva halant-deva by n-deva;
+	sub nnna-deva halant-deva by nnn-deva;
+	sub pa-deva halant-deva by p-deva;
+	sub pha-deva halant-deva by ph-deva;
+	sub ba-deva halant-deva by b-deva;
+	sub bha-deva halant-deva by bh-deva;
+	sub ma-deva halant-deva by m-deva;
+	sub ya-deva halant-deva by y-deva;
+	sub rra-deva halant-deva by rr-deva;
+	sub la-deva halant-deva by l-deva;
+	sub la-deva.loclMAR halant-deva by l-deva.loclMAR;
+	sub lla-deva halant-deva by ll-deva;
+	sub llla-deva halant-deva by lll-deva;
+	sub va-deva halant-deva by v-deva;
+	sub sha-deva halant-deva by sh-deva;
+	sub sha-deva.loclMAR halant-deva by sh-deva.loclMAR;
+	sub ssa-deva halant-deva by ss-deva;
+	sub sa-deva halant-deva by s-deva;
+	sub ha-deva halant-deva by h-deva;
+	sub qa-deva halant-deva by q-deva;
+	sub khha-deva halant-deva by khh-deva;
+	sub ghha-deva halant-deva by ghh-deva;
+	sub za-deva halant-deva by z-deva;
+	sub fa-deva halant-deva by f-deva;
+	sub ra-deva nukta-deva zerowidthjoiner by rr-deva;
+} Half;
+
+lookup HalfNukta {
+	sub [ka-deva kha-deva ga-deva gha-deva ca-deva cha-deva ja-deva jha-deva jha-deva.loclNEP nya-deva nna-deva ta-deva tha-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva rra-deva la-deva la-deva.loclMAR lla-deva llla-deva va-deva sha-deva sha-deva.loclMAR ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva fa-deva]' [nukta-deva rakar-deva] halant-deva by @DevaHalfforms;
+	sub [ka-deva kha-deva ga-deva gha-deva ca-deva cha-deva ja-deva jha-deva jha-deva.loclNEP nya-deva nna-deva ta-deva tha-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva rra-deva la-deva la-deva.loclMAR lla-deva llla-deva va-deva sha-deva sha-deva.loclMAR ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva fa-deva]' nukta-deva rakar-deva halant-deva by @DevaHalfforms;
+	sub @DevaHalfforms rakar-deva' halant-deva' by rakar-deva;
+	sub @DevaHalfforms nukta-deva' halant-deva' by nukta-deva;
+	sub @DevaHalfforms nukta-deva rakar-deva' halant-deva' by rakar-deva;
+} HalfNukta;
+language NEP;
+lookup Half;
+lookup HalfNukta;
+language MAR;
+lookup Half;
+lookup HalfNukta;
+
+script deva;
+lookup Half;
+lookup HalfNukta;
+language NEP;
+lookup Half;
+lookup HalfNukta;
+language MAR;
+lookup Half;
+lookup HalfNukta;
+} half;
+
+feature cjct {
+# automatic
+script dev2;
+lookup cjct_devanagari_rakar_forms {
+	sub g-deva rakar-deva by g_ra-deva;
+	sub j-deva rakar-deva by j_ra-deva;
+	sub t-deva rakar-deva by t_ra-deva;
+	sub n-deva rakar-deva by n_ra-deva;
+	sub m-deva rakar-deva by m_ra-deva;
+	sub y-deva rakar-deva by y_ra-deva;
+	sub v-deva rakar-deva by v_ra-deva;
+	sub ka-deva rakar-deva by ka_ra-deva;
+	sub kh-deva rakar-deva by kh_ra-deva;
+	sub ga-deva rakar-deva by ga_ra-deva;
+	sub gh-deva rakar-deva by gh_ra-deva;
+	sub ca-deva rakar-deva by ca_ra-deva;
+	sub ja-deva rakar-deva by ja_ra-deva;
+	sub ta-deva rakar-deva by ta_ra-deva;
+	sub da-deva rakar-deva by da_ra-deva;
+	sub dh-deva rakar-deva by dh_ra-deva;
+	sub na-deva rakar-deva by na_ra-deva;
+	sub pa-deva rakar-deva by pa_ra-deva;
+	sub ba-deva rakar-deva by ba_ra-deva;
+	sub bh-deva rakar-deva by bh_ra-deva;
+	sub ma-deva rakar-deva by ma_ra-deva;
+	sub ya-deva rakar-deva by ya_ra-deva;
+	sub la-deva rakar-deva by la_ra-deva;
+	sub va-deva rakar-deva by va_ra-deva;
+	sub sh-deva rakar-deva by sh_ra-deva;
+	sub sa-deva rakar-deva by sa_ra-deva;
+	sub ha-deva rakar-deva by ha_ra-deva;
+	sub fa-deva rakar-deva by fa_ra-deva;
+	sub kha-deva rakar-deva by kha_ra-deva;
+	sub gha-deva rakar-deva by gha_ra-deva;
+	sub jha-deva rakar-deva by jha_ra-deva;
+	sub nya-deva rakar-deva by nya_ra-deva;
+	sub nna-deva rakar-deva by nna_ra-deva;
+	sub tha-deva rakar-deva by tha_ra-deva;
+	sub dha-deva rakar-deva by dha_ra-deva;
+	sub pha-deva rakar-deva by pha_ra-deva;
+	sub bha-deva rakar-deva by bha_ra-deva;
+	sub sha-deva rakar-deva by sha_ra-deva;
+	sub ssa-deva rakar-deva by ssa_ra-deva;
+} cjct_devanagari_rakar_forms;
+lookup cjct_devanagari_rakar_forms_nukta {
+	sub [g-deva j-deva t-deva n-deva m-deva y-deva v-deva ka-deva kh-deva ga-deva gh-deva ca-deva ja-deva ta-deva da-deva dh-deva na-deva pa-deva ba-deva bh-deva ma-deva ya-deva la-deva va-deva sh-deva sa-deva ha-deva fa-deva kha-deva gha-deva jha-deva nya-deva nna-deva tha-deva dha-deva pha-deva bha-deva sha-deva ssa-deva]' nukta-deva rakar-deva by [g_ra-deva j_ra-deva t_ra-deva n_ra-deva m_ra-deva y_ra-deva v_ra-deva ka_ra-deva kh_ra-deva ga_ra-deva gh_ra-deva ca_ra-deva ja_ra-deva ta_ra-deva da_ra-deva dh_ra-deva na_ra-deva pa_ra-deva ba_ra-deva bh_ra-deva ma_ra-deva ya_ra-deva la_ra-deva va_ra-deva sh_ra-deva sa_ra-deva ha_ra-deva fa_ra-deva kha_ra-deva gha_ra-deva jha_ra-deva nya_ra-deva nna_ra-deva tha_ra-deva dha_ra-deva pha_ra-deva bha_ra-deva sha_ra-deva ssa_ra-deva];
+	sub [g_ra-deva j_ra-deva t_ra-deva n_ra-deva m_ra-deva y_ra-deva v_ra-deva ka_ra-deva kh_ra-deva ga_ra-deva gh_ra-deva ca_ra-deva ja_ra-deva ta_ra-deva da_ra-deva dh_ra-deva na_ra-deva pa_ra-deva ba_ra-deva bh_ra-deva ma_ra-deva ya_ra-deva la_ra-deva va_ra-deva sh_ra-deva sa_ra-deva ha_ra-deva fa_ra-deva kha_ra-deva gha_ra-deva jha_ra-deva nya_ra-deva nna_ra-deva tha_ra-deva dha_ra-deva pha_ra-deva bha_ra-deva sha_ra-deva ssa_ra-deva] nukta-deva' rakar-deva' by nukta-deva;
+} cjct_devanagari_rakar_forms_nukta;
+lookup cjct_devanagari {
+	sub nga-deva halant-deva k-deva t-deva ta-deva by ng_k_t_ta-deva;
+	sub da-deva halant-deva dh_ra-deva ya-deva by d_dh_ra_ya-deva;
+	sub k-deva t-deva ta-deva by k_t_ta-deva;
+	sub g-deva n-deva ya-deva by g_n_ya-deva;
+	sub da-deva halant-deva da-deva halant-deva ya-deva by d_d_ya-deva;
+	sub da-deva halant-deva v-deva ya-deva by d_v_ya-deva;
+	sub n-deva n-deva ya-deva by n_n_ya-deva;
+	sub k-deva ss-deva ma-deva by k_ss_ma-deva;
+	sub k-deva ss-deva ya-deva by k_ss_ya-deva;
+	sub g_ra-deva ya-deva by g_ra_ya-deva;
+	sub da-deva halant-deva ga_ra-deva by d_ga_ra-deva;
+	sub da-deva halant-deva gh-deva ya-deva by d_gh_ya-deva;
+	sub da-deva halant-deva dh-deva ya-deva by d_dh_ya-deva;
+	sub da-deva halant-deva ba_ra-deva by d_ba_ra-deva;
+	sub da-deva halant-deva bh-deva ya-deva by d_bh_ya-deva;
+	sub da-deva rakar-deva halant-deva ya-deva by d_ra_ya-deva;
+	sub s-deva ta_ra-deva by s_ta_ra-deva;
+	sub k-deva ssa_ra-deva by k_ssa_ra-deva;
+	sub kh_ra-deva ya-deva by kh_ra_ya-deva;
+	sub nga-deva halant-deva ka_ra-deva by ng_ka_ra-deva;
+	sub nga-deva halant-deva k-deva ssa-deva by ng_k_ssa-deva;
+	sub nga-deva halant-deva ga_ra-deva by ng_ga_ra-deva;
+	sub c-deva cha-deva va-deva by c_cha_va-deva;
+	sub j-deva nya_ra-deva by j_nya_ra-deva;
+	sub tta-deva halant-deva tta-deva halant-deva ya-deva by tt_tt_ya-deva;
+	sub dda-deva halant-deva dda-deva halant-deva ya-deva by dd_dd_ya-deva;
+	sub ss-deva tta-deva halant-deva ya-deva by ss_tt_ya-deva;
+	sub ss-deva tta-deva halant-deva va-deva by ss_tt_va-deva;
+	sub nga-deva halant-deva gha_ra-deva by ng_gha_ra-deva;
+	sub ss-deva ttha-deva halant-deva ya-deva by ss_tth_ya-deva;
+	sub ss-deva ttha-deva halant-deva va-deva by ss_tth_va-deva;
+	sub ttha-deva halant-deva ttha-deva halant-deva ya-deva by tth_tth_ya-deva;
+	sub ddha-deva halant-deva ddha-deva halant-deva ya-deva by ddh_ddh_ya-deva;
+	sub da-deva halant-deva ga-deva uMatra-deva by d_ga_uMatra-deva;
+	sub da-deva halant-deva da-deva uMatra-deva by d_da_uMatra-deva;
+	sub da-deva halant-deva na-deva uMatra-deva by d_na_uMatra-deva;
+	sub da-deva halant-deva ba-deva uMatra-deva by d_ba_uMatra-deva;
+	sub da-deva halant-deva va-deva uMatra-deva by d_va_uMatra-deva;
+	sub da_ra-deva uMatra-deva by da_ra_uMatra-deva;
+	sub da-deva halant-deva ga-deva uuMatra-deva by d_ga_uuMatra-deva;
+	sub da-deva halant-deva gha-deva uMatra-deva by d_gha_uMatra-deva;
+	sub da-deva halant-deva da-deva uuMatra-deva by d_da_uuMatra-deva;
+	sub da-deva halant-deva dha-deva uMatra-deva by d_dha_uMatra-deva;
+	sub da-deva halant-deva na-deva uuMatra-deva by d_na_uuMatra-deva;
+	sub da-deva halant-deva ba-deva uuMatra-deva by d_ba_uuMatra-deva;
+	sub da-deva halant-deva bha-deva uMatra-deva by d_bha_uMatra-deva;
+	sub da-deva halant-deva va-deva uuMatra-deva by d_va_uuMatra-deva;
+	sub da_ra-deva uuMatra-deva by da_ra_uuMatra-deva;
+	sub da-deva halant-deva gha-deva uuMatra-deva by d_gha_uuMatra-deva;
+	sub da-deva halant-deva dha-deva uuMatra-deva by d_dha_uuMatra-deva;
+	sub da-deva halant-deva bha-deva uuMatra-deva by d_bha_uuMatra-deva;
+	sub k-deva ka-deva by k_ka-deva;
+	sub k-deva ca-deva by k_ca-deva;
+	sub k-deva va-deva by k_va-deva;
+	sub g-deva na-deva by g_na-deva;
+	sub c-deva ca-deva by c_ca-deva;
+	sub j-deva na-deva by j_na-deva;
+	sub j-deva ya-deva by j_ya-deva;
+	sub t-deva ta-deva by t_ta-deva;
+	sub t-deva na-deva by t_na-deva;
+	sub t-deva ya-deva by t_ya-deva;
+	sub da-deva halant-deva ga-deva by d_ga-deva;
+	sub da-deva halant-deva da-deva by d_da-deva;
+	sub da-deva halant-deva na-deva by d_na-deva;
+	sub da-deva halant-deva ba-deva by d_ba-deva;
+	sub da-deva halant-deva ma-deva by d_ma-deva;
+	sub da-deva halant-deva ya-deva by d_ya-deva;
+	sub da-deva halant-deva va-deva by d_va-deva;
+	sub n-deva ga-deva by n_ga-deva;
+	sub n-deva ca-deva by n_ca-deva;
+	sub n-deva na-deva by n_na-deva;
+	sub n-deva ma-deva by n_ma-deva;
+	sub b-deva ja-deva by b_ja-deva;
+	sub b-deva na-deva by b_na-deva;
+	sub b-deva ya-deva by b_ya-deva;
+	sub l-deva ca-deva by l_ca-deva;
+	sub v-deva na-deva by v_na-deva;
+	sub v-deva ya-deva by v_ya-deva;
+	sub v-deva ha-deva by v_ha-deva;
+	sub h-deva na-deva by h_na-deva;
+	sub h-deva ma-deva by h_ma-deva;
+	sub h-deva ya-deva by h_ya-deva;
+	sub h-deva la-deva by h_la-deva;
+	sub h-deva va-deva by h_va-deva;
+	sub k-deva sha-deva by k_sha-deva;
+	sub k-deva ssa-deva by k_ssa-deva;
+	sub kh-deva na-deva by kh_na-deva;
+	sub gh-deva na-deva by gh_na-deva;
+	sub nga-deva halant-deva ka-deva by ng_ka-deva;
+	sub nga-deva halant-deva ga-deva by ng_ga-deva;
+	sub nga-deva halant-deva ma-deva by ng_ma-deva;
+	sub ch-deva na-deva by ch_na-deva;
+	sub ch-deva va-deva by ch_va-deva;
+	sub j-deva nya-deva by j_nya-deva;
+	sub ny-deva ca-deva by ny_ca-deva;
+	sub ny-deva ja-deva by ny_ja-deva;
+	sub tta-deva halant-deva na-deva by tt_na-deva;
+	sub tta-deva halant-deva ya-deva by tt_ya-deva;
+	sub tta-deva halant-deva va-deva by tt_va-deva;
+	sub dda-deva halant-deva na-deva by dd_na-deva;
+	sub dda-deva halant-deva ma-deva by dd_ma-deva;
+	sub dda-deva halant-deva ya-deva by dd_ya-deva;
+	sub t-deva tha-deva by t_tha-deva;
+	sub da-deva halant-deva gha-deva by d_gha-deva;
+	sub da-deva halant-deva dha-deva by d_dha-deva;
+	sub da-deva halant-deva bha-deva by d_bha-deva;
+	sub n-deva nya-deva by n_nya-deva;
+	sub n-deva bha-deva by n_bha-deva;
+	sub p-deva jha-deva by p_jha-deva;
+	sub p-deva tta-deva by p_tta-deva;
+	sub rr-deva ya-deva by rr_ya-deva;
+	sub rr-deva ha-deva by rr_ha-deva;
+	sub l-deva bha-deva by l_bha-deva;
+	sub sh-deva ca-deva by sh_ca-deva;
+	sub sh-deva na-deva by sh_na-deva;
+	sub sh-deva va-deva by sh_va-deva;
+	sub s-deva tha-deva by s_tha-deva;
+	sub h-deva nna-deva by h_nna-deva;
+	sub nga-deva halant-deva kha-deva by ng_kha-deva;
+	sub nga-deva halant-deva gha-deva by ng_gha-deva;
+	sub tta-deva halant-deva tta-deva by tt_tta-deva;
+	sub ttha-deva halant-deva na-deva by tth_na-deva;
+	sub ttha-deva halant-deva ya-deva by tth_ya-deva;
+	sub dda-deva halant-deva gha-deva by dd_gha-deva;
+	sub dda-deva halant-deva tta-deva by dd_tta-deva;
+	sub dda-deva halant-deva dda-deva by dd_dda-deva;
+	sub ddha-deva halant-deva na-deva by ddh_na-deva;
+	sub ddha-deva halant-deva ya-deva by ddh_ya-deva;
+	sub ss-deva tta-deva by ss_tta-deva;
+	sub tta-deva halant-deva ttha-deva by tt_ttha-deva;
+	sub tta-deva halant-deva ddha-deva by tt_ddha-deva;
+	sub dda-deva halant-deva ddha-deva by dd_ddha-deva;
+	sub ss-deva ttha-deva by ss_ttha-deva;
+	sub ttha-deva halant-deva ttha-deva by tth_ttha-deva;
+	sub ddha-deva halant-deva ddha-deva by ddh_ddha-deva;
+	sub da-deva uMatra-deva by da_uMatra-deva;
+	sub ra-deva uMatra-deva by ra_uMatra-deva;
+	sub ha-deva uMatra-deva by ha_uMatra-deva;
+	sub da-deva uuMatra-deva by da_uuMatra-deva;
+	sub ra-deva uuMatra-deva by ra_uuMatra-deva;
+	sub ha-deva uuMatra-deva by ha_uuMatra-deva;
+	sub da-deva rVocalicMatra-deva by da_rVocalicMatra-deva;
+	sub ha-deva rVocalicMatra-deva by ha_rVocalicMatra-deva;
+} cjct_devanagari;
+lookup cjct_Halfdevanagari {
+	sub g-deva n-deva by g_n-deva;
+	sub t-deva t-deva by t_t-deva;
+	sub n-deva n-deva by n_n-deva;
+	sub m-deva n-deva by m_n-deva;
+	sub y-deva n-deva by y_n-deva;
+	sub v-deva n-deva by v_n-deva;
+	sub k-deva ss-deva by k_ss-deva;
+	sub j-deva ny-deva by j_ny-deva;
+	sub bh-deva n-deva by bh_n-deva;
+} cjct_Halfdevanagari;
+language NEP;
+lookup cjct_devanagari;
+language NEP;
+lookup cjct_devanagari;
+lookup cjct_devanagari_NEP_cjct {
+	sub ka_ra-deva by ka_ra-deva.loclNEP;
+} cjct_devanagari_NEP_cjct;
+language MAR;
+lookup cjct_devanagari;
+language MAR;
+lookup cjct_devanagari;
+lookup cjct_devanagari_MAR_alternates {
+	sub k-deva la-deva.loclMAR by k_la-deva.loclMAR;
+	sub kh-deva la-deva.loclMAR by kh_la-deva.loclMAR;
+	sub g-deva la-deva.loclMAR by g_la-deva.loclMAR;
+	sub gh-deva la-deva.loclMAR by gh_la-deva.loclMAR;
+	sub c-deva la-deva.loclMAR by c_la-deva.loclMAR;
+	sub ch-deva la-deva.loclMAR by ch_la-deva.loclMAR;
+	sub pa-deva la-deva.loclMAR by pa_la-deva.loclMAR;
+	sub ph-deva la-deva.loclMAR by ph_la-deva.loclMAR;
+	sub b-deva la-deva.loclMAR by b_la-deva.loclMAR;
+	sub bh-deva la-deva.loclMAR by bh_la-deva.loclMAR;
+	sub m-deva la-deva.loclMAR by m_la-deva.loclMAR;
+	sub l-deva.loclMAR la-deva.loclMAR by l_la-deva.loclMAR;
+	sub v-deva la-deva.loclMAR by v_la-deva.loclMAR;
+	sub sh-deva.loclMAR la-deva.loclMAR by sh_la-deva.loclMAR;
+} cjct_devanagari_MAR_alternates;
+} cjct;
+
+feature pres {
+# automatic
+script dev2;
+lookup Imatra1_devanagari {
+	lookupflag IgnoreMarks;
+	sub iMatra-deva' k-deva s-deva pa_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva s-deva p-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva s-deva n-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva s-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva s_ta_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva s_ta_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' bh_ra-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva c-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' d_da-deva halant-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' da-deva halant-deva dha_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' da-deva halant-deva va_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' g-deva bh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' g-deva d_va-deva by iMatra-deva.05;
+	sub iMatra-deva' g-deva dh-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' g-deva dh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' g-deva l-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' g-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' gh-deva l-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' h-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva k-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva pa_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva s-deva dda-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva s-deva pa-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva s-deva ta-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva s-deva tta-deva by iMatra-deva.09;
+	sub iMatra-deva' k_ss-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' k-deva ta_ra-deva by iMatra-deva.08;
+	sub iMatra-deva' k-deva t-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva t_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva v_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva t_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva da_ra-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva h_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva k-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva l-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva th-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva ba_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva b_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva bha_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva bh-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva bh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva pa_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva bh-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva bh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva d_dha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva da_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva d_va-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva dha_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva dh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva g-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva ha_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva h_ya-deva by iMatra-deva.08;
+	sub iMatra-deva' n-deva j_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva ka_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva k-deva sa-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva k_ssa-deva by iMatra-deva.07;
+	sub iMatra-deva' n-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n_n-deva da-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva pa_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva s_tha-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva s-deva tta-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva s-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva ta_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva t-deva sa-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva t-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva t_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva th-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva th-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' nga-deva halant-deva k-deva ta-deva by iMatra-deva.09;
+	sub iMatra-deva' nga-deva halant-deva kh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' ny-deva c-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' ny-deva j_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' ny-deva sha_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' p-deva s-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' p-deva t_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' ra-deva halant-deva c-deva cha-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva ka_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva n-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva p-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva pa_ra-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva t-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva t_ya-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva th-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' sh_ra-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' ss-deva ka_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' t-deva k-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva ka_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' t-deva k_ssa-deva by iMatra-deva.07;
+	sub iMatra-deva' t-deva k-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva kh_na-deva by iMatra-deva.08;
+	sub iMatra-deva' t-deva kha_ra-deva by iMatra-deva.08;
+	sub iMatra-deva' t-deva m-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva n-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva p-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva pa_ra-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva s-deva na-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva s_tha-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva s-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva s-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' t-deva ta_ra-deva by iMatra-deva.05;
+	sub iMatra-deva' t_t-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' tta-deva halant-deva ta_ra-deva by iMatra-deva.09;
+	sub iMatra-deva' v_ra-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' b-deva ba-deva by iMatra-deva.06;
+	sub iMatra-deva' b-deva da-deva by iMatra-deva.06;
+	sub iMatra-deva' b-deva dha-deva by iMatra-deva.06;
+	sub iMatra-deva' b-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' bh-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' bh-deva na-deva by iMatra-deva.07;
+	sub iMatra-deva' bh-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' bh-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva cha-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva da-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva dda-deva by iMatra-deva.06;
+	sub iMatra-deva' c-deva ddha-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva dha-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva ka-deva by iMatra-deva.06;
+	sub iMatra-deva' c-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' c-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' c-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva na-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva nna-deva by iMatra-deva.09;
+	sub iMatra-deva' c-deva pa-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva ta-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva tha-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva tta-deva by iMatra-deva.06;
+	sub iMatra-deva' c-deva ttha-deva by iMatra-deva.06;
+	sub iMatra-deva' c-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' c-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' ch-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' dda-deva halant-deva bha-deva by iMatra-deva.09;
+	sub iMatra-deva' dda-deva halant-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' dh-deva da-deva by iMatra-deva.07;
+	sub iMatra-deva' dh-deva dha-deva by iMatra-deva.07;
+	sub iMatra-deva' dh-deva ka-deva by iMatra-deva.06;
+	sub iMatra-deva' dh-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' dh-deva na-deva by iMatra-deva.07;
+	sub iMatra-deva' dh-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' dh-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' dh-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' g-deva ba-deva by iMatra-deva.06;
+	sub iMatra-deva' g-deva bha-deva by iMatra-deva.07;
+	sub iMatra-deva' g-deva da-deva by iMatra-deva.05;
+	sub iMatra-deva' g-deva dha-deva by iMatra-deva.06;
+	sub iMatra-deva' g-deva ga-deva by iMatra-deva.06;
+	sub iMatra-deva' g-deva ja-deva by iMatra-deva.07;
+	sub iMatra-deva' g-deva ka-deva by iMatra-deva.05;
+	sub iMatra-deva' g-deva la-deva by iMatra-deva.07;
+	sub iMatra-deva' g-deva ma-deva by iMatra-deva.06;
+	sub iMatra-deva' g-deva nna-deva by iMatra-deva.08;
+	sub iMatra-deva' g-deva sa-deva by iMatra-deva.06;
+	sub iMatra-deva' g-deva ta-deva by iMatra-deva.05;
+	sub iMatra-deva' g-deva va-deva by iMatra-deva.05;
+	sub iMatra-deva' g-deva ya-deva by iMatra-deva.05;
+	sub iMatra-deva' gh-deva ba-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva da-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva dda-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva gha-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva ja-deva by iMatra-deva.07;
+	sub iMatra-deva' gh-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' gh-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' gh-deva nna-deva by iMatra-deva.08;
+	sub iMatra-deva' gh-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' gh-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva tta-deva by iMatra-deva.05;
+	sub iMatra-deva' gh-deva ttha-deva by iMatra-deva.05;
+	sub iMatra-deva' gh-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' gh-deva ya-deva by iMatra-deva.06;
+	sub iMatra-deva' j-deva ba-deva by iMatra-deva.07;
+	sub iMatra-deva' j-deva da-deva by iMatra-deva.07;
+	sub iMatra-deva' j-deva ja-deva by iMatra-deva.09;
+	sub iMatra-deva' j-deva jha-deva by iMatra-deva.09;
+	sub iMatra-deva' j-deva ka-deva by iMatra-deva.07;
+	sub iMatra-deva' j-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' j-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' j-deva ta-deva by iMatra-deva.07;
+	sub iMatra-deva' j-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' jh-deva ga-deva by iMatra-deva.08;
+	sub iMatra-deva' jh-deva gha-deva by iMatra-deva.09;
+	sub iMatra-deva' jh-deva jha-deva by iMatra-deva.09;
+	sub iMatra-deva' jh-deva ka-deva by iMatra-deva.08;
+	sub iMatra-deva' jh-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' jh-deva ma-deva by iMatra-deva.09;
+	sub iMatra-deva' jh-deva na-deva by iMatra-deva.09;
+	sub iMatra-deva' jh-deva ta-deva by iMatra-deva.08;
+	sub iMatra-deva' jh-deva va-deva by iMatra-deva.08;
+	sub iMatra-deva' jh-deva ya-deva by iMatra-deva.08;
+	sub iMatra-deva' k-deva ba-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva bha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva cha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva da-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva dda-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ddha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ga-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ja-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva jha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva lla-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ma-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva na-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva nna-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva pa-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva pha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva sa-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ta-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva tha-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva tta-deva by iMatra-deva.09;
+	sub iMatra-deva' k-deva ttha-deva by iMatra-deva.08;
+	sub iMatra-deva' k-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva da-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva ma-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva nna-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva pa-deva by iMatra-deva.08;
+	sub iMatra-deva' kh-deva sa-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva sha-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva ssa-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva ta-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva tta-deva by iMatra-deva.08;
+	sub iMatra-deva' kh-deva ttha-deva by iMatra-deva.08;
+	sub iMatra-deva' kh-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' kh-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva ba-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva da-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva dda-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva ddha-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva ga-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva ha-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva ja-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva ka-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' l-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva pa-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva pha-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva sa-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva ta-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva tha-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva tta-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva ttha-deva by iMatra-deva.07;
+	sub iMatra-deva' l-deva va-deva by iMatra-deva.08;
+	sub iMatra-deva' l-deva ya-deva by iMatra-deva.08;
+	sub iMatra-deva' ll-deva pa-deva by iMatra-deva.09;
+	sub iMatra-deva' ll-deva va-deva by iMatra-deva.09;
+	sub iMatra-deva' ll-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' m-deva ba-deva by iMatra-deva.07;
+	sub iMatra-deva' m-deva bha-deva by iMatra-deva.07;
+	sub iMatra-deva' m-deva da-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva ha-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' m-deva ma-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva na-deva by iMatra-deva.07;
+	sub iMatra-deva' m-deva pa-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' m-deva sha-deva by iMatra-deva.07;
+	sub iMatra-deva' m-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' m-deva ya-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva ba-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva cha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva da-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva dda-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva ddha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva dha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva ha-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva ja-deva by iMatra-deva.07;
+	sub iMatra-deva' n-deva jha-deva by iMatra-deva.08;
+	sub iMatra-deva' n-deva ka-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' n-deva la-deva by iMatra-deva.07;
+	sub iMatra-deva' n-deva pa-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva pha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' n-deva sha-deva by iMatra-deva.07;
+	sub iMatra-deva' n-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva tha-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva tta-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva ttha-deva by iMatra-deva.05;
+	sub iMatra-deva' n-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' n-deva ya-deva by iMatra-deva.06;
+	sub iMatra-deva' nga-deva halant-deva ca-deva by iMatra-deva.09;
+	sub iMatra-deva' nga-deva halant-deva na-deva by iMatra-deva.09;
+	sub iMatra-deva' nga-deva halant-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' nn-deva dda-deva by iMatra-deva.07;
+	sub iMatra-deva' nn-deva dddha-deva by iMatra-deva.07;
+	sub iMatra-deva' nn-deva ddha-deva by iMatra-deva.08;
+	sub iMatra-deva' nn-deva nna-deva by iMatra-deva.09;
+	sub iMatra-deva' nn-deva ta-deva by iMatra-deva.07;
+	sub iMatra-deva' nn-deva tta-deva by iMatra-deva.07;
+	sub iMatra-deva' nn-deva ttha-deva by iMatra-deva.07;
+	sub iMatra-deva' nn-deva va-deva by iMatra-deva.08;
+	sub iMatra-deva' nn-deva ya-deva by iMatra-deva.08;
+	sub iMatra-deva' ny-deva cha-deva by iMatra-deva.08;
+	sub iMatra-deva' ny-deva sha-deva by iMatra-deva.09;
+	sub iMatra-deva' p-deva da-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva dda-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva ddha-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva dha-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva ka-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva la-deva by iMatra-deva.07;
+	sub iMatra-deva' p-deva lla-deva by iMatra-deva.07;
+	sub iMatra-deva' p-deva ma-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva na-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva nna-deva by iMatra-deva.08;
+	sub iMatra-deva' p-deva pa-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva pha-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' p-deva ssa-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva tha-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva ttha-deva by iMatra-deva.05;
+	sub iMatra-deva' p-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' p-deva ya-deva by iMatra-deva.06;
+	sub iMatra-deva' ph-deva da-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva ja-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva ka-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva la-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva ma-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva na-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva pha-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva sha-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva ta-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva tta-deva by iMatra-deva.09;
+	sub iMatra-deva' ph-deva ya-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva ba-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva cha-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva da-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva dda-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva ddha-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva ja-deva by iMatra-deva.08;
+	sub iMatra-deva' s-deva ka-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' s-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' s-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva na-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva pa-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva pha-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva sa-deva by iMatra-deva.08;
+	sub iMatra-deva' s-deva ta-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva tta-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva ttha-deva by iMatra-deva.06;
+	sub iMatra-deva' s-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' s-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' sh-deva ba-deva by iMatra-deva.07;
+	sub iMatra-deva' sh-deva cha-deva by iMatra-deva.07;
+	sub iMatra-deva' sh-deva ka-deva by iMatra-deva.06;
+	sub iMatra-deva' sh-deva kha-deva by iMatra-deva.09;
+	sub iMatra-deva' sh-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' sh-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' sh-deva sha-deva by iMatra-deva.08;
+	sub iMatra-deva' sh-deva ta-deva by iMatra-deva.07;
+	sub iMatra-deva' sh-deva tta-deva by iMatra-deva.06;
+	sub iMatra-deva' sh-deva ya-deva by iMatra-deva.07;
+	sub iMatra-deva' ss-deva ka-deva by iMatra-deva.05;
+	sub iMatra-deva' ss-deva ma-deva by iMatra-deva.06;
+	sub iMatra-deva' ss-deva nna-deva by iMatra-deva.08;
+	sub iMatra-deva' ss-deva pa-deva by iMatra-deva.06;
+	sub iMatra-deva' ss-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva ba-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva bha-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva ka-deva by iMatra-deva.05;
+	sub iMatra-deva' t-deva kha-deva by iMatra-deva.08;
+	sub iMatra-deva' t-deva la-deva by iMatra-deva.07;
+	sub iMatra-deva' t-deva ma-deva by iMatra-deva.05;
+	sub iMatra-deva' t-deva pa-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva pha-deva by iMatra-deva.05;
+	sub iMatra-deva' t-deva sa-deva by iMatra-deva.06;
+	sub iMatra-deva' t-deva va-deva by iMatra-deva.06;
+	sub iMatra-deva' th-deva ka-deva by iMatra-deva.06;
+	sub iMatra-deva' th-deva la-deva by iMatra-deva.08;
+	sub iMatra-deva' th-deva ma-deva by iMatra-deva.07;
+	sub iMatra-deva' th-deva sa-deva by iMatra-deva.07;
+	sub iMatra-deva' th-deva tha-deva by iMatra-deva.06;
+	sub iMatra-deva' th-deva va-deva by iMatra-deva.07;
+	sub iMatra-deva' th-deva ya-deva by iMatra-deva.06;
+	sub iMatra-deva' v-deva la-deva by iMatra-deva.07;
+	sub iMatra-deva' v-deva sa-deva by iMatra-deva.06;
+	sub iMatra-deva' y-deva ya-deva by iMatra-deva.05;
+} Imatra1_devanagari;
+
+lookup Imatra2_devanagari {
+	sub [iMatra-deva]' [ra_uMatra-deva rra-deva ra-deva ra_uuMatra-deva zha-deva.loclNEP] by [iMatra-deva];
+	sub [iMatra-deva]' [k_va-deva ta_ra-deva tt_va-deva ddh_na-deva tt_ttha-deva tt_tta-deva tt_na-deva tth_na-deva ttha-deva ddh_ddha-deva tt_ddha-deva k_ka-deva tth_ttha-deva] by [iMatra-deva.01];
+	sub [iMatra-deva]' [fa-deva da_uuMatra-deva ng_ga_ra-deva ya-deva ghha-deva ddha-deva da_ra-deva da_ra_uuMatra-deva ta-deva rha-deva d_na_uMatra-deva d_da_uMatra-deva dda-deva d_ba_uuMatra-deva d_va_uMatra-deva d_va_uuMatra-deva ssa-deva n_na-deva nga-deva d_va-deva ya_ra-deva ha_uMatra-deva ssa_ra-deva h_na-deva ss_tta-deva ng_ka_ra-deva b_na-deva d_ga-deva da_rVocalicMatra-deva d_ba-deva ha_uuMatra-deva ng_gha-deva g_na-deva ddda-deva da_uMatra-deva ss_tt_va-deva ka_ra-deva ng_ka-deva jjya-deva va_ra-deva na-deva d_ga_ra-deva pha-deva pa_ra-deva ng_ga-deva ng_kha-deva dd_tta-deva da-deva k_t_ta-deva p_tta-deva ha_rVocalicMatra-deva d_da_uuMatra-deva cha-deva d_ga_uMatra-deva ny_ca-deva dd_ddha-deva h_nna-deva ss_ttha-deva v_na-deva ng_gha_ra-deva bba-deva gga-deva da_ra_uMatra-deva ga_ra-deva ng_k_ssa-deva dd_dda-deva ha-deva d_na-deva gha_ra-deva ny_ja-deva fa_ra-deva d_da-deva pha_ra-deva va-deva nnna-deva d_ba_ra-deva k_sha-deva dd_gha-deva gh_na-deva dddha-deva qa-deva d_ga_uuMatra-deva ng_k_t_ta-deva h_va-deva ss_tth_va-deva h_la-deva d_ba_uMatra-deva ga-deva ng_ma-deva na_ra-deva ba-deva ha_ra-deva pa-deva ka_ra-deva.loclNEP d_na_uuMatra-deva ka-deva tta-deva dd_na-deva gha-deva yya-deva] by [iMatra-deva.02];
+	sub [iMatra-deva]' [sh_na-deva dha_ra-deva d_bha_uMatra-deva bha-deva zha-deva ja-deva sa-deva j_nya_ra-deva jh-deva.loclNEP d_dha_uMatra-deva d_gha_uuMatra-deva l-deva.loclMAR ja_ra-deva d_dha-deva d_dha_uuMatra-deva sha-deva d_bha_uuMatra-deva ma-deva j_na-deva d_gha_uMatra-deva la-deva.loclMAR ca-deva d_gha-deva j_nya-deva ca_ra-deva za-deva dha-deva sa_ra-deva tha-deva tha_ra-deva sh_va-deva jha-deva.loclNEP ma_ra-deva sha_ra-deva sh_ca-deva t_ta-deva jja-deva d_bha-deva kh_la-deva.loclMAR] by [iMatra-deva.03];
+	sub [iMatra-deva]' [sha-deva.loclMAR jha-deva k_ssa_ra-deva nna-deva h_ya-deva lla-deva nna_ra-deva la_ra-deva la-deva k_ssa-deva nya-deva llla-deva rr_ha-deva nya_ra-deva h_ma-deva] by [iMatra-deva.04];
+	sub [iMatra-deva]' [g_n_ya-deva khha-deva v_ha-deva rr_ya-deva g_ra_ya-deva kh_na-deva kha-deva t_na-deva n_ga-deva kha_ra-deva jha_ra-deva t_ya-deva] by [iMatra-deva.05];
+	sub [iMatra-deva]' [n_ca-deva t_tha-deva b_ya-deva n_n_ya-deva v_ya-deva n_bha-deva s_ta_ra-deva ba_ra-deva n_ma-deva] by [iMatra-deva.06];
+	sub [iMatra-deva]' [ddh_ddh_ya-deva tt_tt_ya-deva dd_ya-deva d_v_ya-deva ss_tt_ya-deva dd_ma-deva k_ss_ya-deva tt_ya-deva b_ja-deva s_tha-deva k_ss_ma-deva n_nya-deva ss_tth_ya-deva dd_dd_ya-deva j_ya-deva c_ca-deva] by [iMatra-deva.07];
+	sub [iMatra-deva]' [d_gh_ya-deva d_d_ya-deva l_ca-deva ddh_ya-deva kh_ra_ya-deva tth_ya-deva d_bh_ya-deva d_dh_ya-deva p_jha-deva tth_tth_ya-deva d_dh_ra_ya-deva sh_la-deva.loclMAR] by [iMatra-deva.08];
+	sub [iMatra-deva]' [k_ca-deva bha_ra-deva l_bha-deva] by [iMatra-deva.09];
+} Imatra2_devanagari;
+
+lookup Iimatra_devanagari {
+	sub [ng_ga_ra-deva ng_ka_ra-deva ng_gha-deva jh-deva.loclNEP ng_ka-deva ng_ga-deva l-deva.loclMAR ng_kha-deva ttha-deva cha-deva ng_gha_ra-deva ng_k_ssa-deva la-deva.loclMAR ng_k_t_ta-deva ng_ma-deva sh_la-deva.loclMAR] [iiMatra-deva]' by [iiMatra-deva.01];
+	sub [ng_ga_ra-deva ng_ka_ra-deva ng_gha-deva jh-deva.loclNEP ng_ka-deva ng_ga-deva l-deva.loclMAR ng_kha-deva ttha-deva cha-deva ng_gha_ra-deva ng_k_ssa-deva la-deva.loclMAR ng_k_t_ta-deva ng_ma-deva sh_la-deva.loclMAR] [nukta-deva] [iiMatra-deva]' by [iiMatra-deva.01];
+	sub [lla-deva llla-deva] [iiMatra-deva]' by [iiMatra-deva.02];
+	sub [lla-deva llla-deva] [nukta-deva] [iiMatra-deva]' by [iiMatra-deva.02];
+	sub [k_va-deva nga-deva k_ka-deva zha-deva.loclNEP] [iiMatra-deva]' by [iiMatra-deva.03];
+	sub [k_va-deva nga-deva k_ka-deva zha-deva.loclNEP] [nukta-deva] [iiMatra-deva]' by [iiMatra-deva.03];
+	sub [fa-deva ra_uMatra-deva ka_ra-deva pha-deva k_t_ta-deva fa_ra-deva pha_ra-deva qa-deva ra_uuMatra-deva jha-deva.loclNEP ka_ra-deva.loclNEP ka-deva] [iiMatra-deva]' by [iiMatra-deva.04];
+	sub [fa-deva ra_uMatra-deva ka_ra-deva pha-deva k_t_ta-deva fa_ra-deva pha_ra-deva qa-deva ra_uuMatra-deva jha-deva.loclNEP ka_ra-deva.loclNEP ka-deva] [nukta-deva] [iiMatra-deva]' by [iiMatra-deva.04];
+} Iimatra_devanagari;
+
+language NEP;
+lookup cjct_devanagari;
+lookup Imatra1_devanagari;
+lookup Imatra2_devanagari;
+lookup cjct_devanagari_NEP_cjct;
+language MAR;
+lookup cjct_devanagari;
+lookup Imatra1_devanagari;
+lookup Imatra2_devanagari;
+lookup cjct_devanagari_MAR_alternates;
+
+script deva;
+lookup cjct_devanagari;
+lookup Imatra1_devanagari;
+lookup Imatra2_devanagari;
+language NEP;
+lookup cjct_devanagari;
+lookup Imatra1_devanagari;
+lookup Imatra2_devanagari;
+lookup cjct_devanagari_NEP_cjct;
+language MAR;
+lookup cjct_devanagari;
+lookup Imatra1_devanagari;
+lookup Imatra2_devanagari;
+lookup cjct_devanagari_MAR_alternates;
+} pres;
+
+feature abvs {
+# automatic
+script dev2;
+lookup Abvs1_devanagari {
+	sub iiMatra-deva reph-deva by iiMatra_reph-deva;
+	sub iiMatra-deva.01 reph-deva by iiMatra_reph-deva.01;
+	sub iiMatra-deva.02 reph-deva by iiMatra_reph-deva.02;
+	sub iiMatra-deva.03 reph-deva by iiMatra_reph-deva.03;
+	sub iiMatra-deva.04 reph-deva by iiMatra_reph-deva.04;
+	sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
+	sub iiMatra-deva.01 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.01;
+	sub iiMatra-deva.02 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.02;
+	sub iiMatra-deva.03 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.03;
+	sub iiMatra-deva.04 reph-deva anusvara-deva by iiMatra_reph_anusvara-deva.04;
+	sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
+	sub oMatra-deva reph-deva by oMatra_reph-deva;
+	sub oMatra-deva reph-deva anusvara-deva by oMatra_reph_anusvara-deva;
+	sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
+	sub auMatra-deva reph-deva by auMatra_reph-deva;
+	sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;
+	sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+	sub eMatra-deva reph-deva by eMatra_reph-deva;
+	sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+	sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
+	sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+	sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+	sub reph-deva anusvara-deva by reph_anusvara-deva;
+	sub rakar-deva uMatra-deva by rakar_uMatra-deva;
+	sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
+	sub reph-deva.imatra anusvara-deva.imatra by reph_anusvara-deva.imatra;
+} Abvs1_devanagari;
+lookup Abvs3_devanagari {
+	sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
+} Abvs3_devanagari;
+language NEP;
+lookup Abvs1_devanagari;
+lookup Abvs3_devanagari;
+language MAR;
+lookup Abvs1_devanagari;
+lookup Abvs3_devanagari;
+
+script deva;
+lookup Abvs1_devanagari;
+lookup Abvs3_devanagari;
+language NEP;
+lookup Abvs1_devanagari;
+lookup Abvs3_devanagari;
+language MAR;
+lookup Abvs1_devanagari;
+lookup Abvs3_devanagari;
+} abvs;
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_gha_uuMatra-deva" format="1">
+  <advance width="618"/>
+  <outline>
+    <contour>
+      <point x="375" y="-261"/>
+      <point x="421" y="-308"/>
+      <point x="508" y="-308" type="curve" smooth="yes"/>
+      <point x="533" y="-308"/>
+      <point x="564" y="-304"/>
+      <point x="597" y="-293" type="curve"/>
+      <point x="597" y="-221" type="line"/>
+      <point x="560" y="-233"/>
+      <point x="533" y="-236"/>
+      <point x="512" y="-236" type="curve" smooth="yes"/>
+      <point x="458" y="-236"/>
+      <point x="437" y="-217"/>
+      <point x="437" y="-175" type="curve" smooth="yes"/>
+      <point x="437" y="-127"/>
+      <point x="465" y="-107"/>
+      <point x="530" y="-107" type="curve" smooth="yes"/>
+      <point x="650" y="-107"/>
+      <point x="708" y="-175"/>
+      <point x="708" y="-308" type="curve"/>
+      <point x="770" y="-308" type="line"/>
+      <point x="770" y="-134"/>
+      <point x="679" y="-35"/>
+      <point x="534" y="-35" type="curve" smooth="yes"/>
+      <point x="430" y="-35"/>
+      <point x="375" y="-86"/>
+      <point x="375" y="-177" type="curve" smooth="yes"/>
+    </contour>
+    <component base="d_gha-deva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra-deva.03" format="1">
+  <advance width="260"/>
+  <outline>
+    <contour>
+      <point x="-233" y="956"/>
+      <point x="-295" y="909"/>
+      <point x="-295" y="809" type="curve" smooth="yes"/>
+      <point x="-295" y="781"/>
+      <point x="-290" y="759"/>
+      <point x="-280" y="741" type="curve"/>
+      <point x="-222" y="741" type="line"/>
+      <point x="-226" y="767"/>
+      <point x="-227" y="782"/>
+      <point x="-227" y="792" type="curve" smooth="yes"/>
+      <point x="-227" y="855"/>
+      <point x="-192" y="880"/>
+      <point x="-99" y="880" type="curve" smooth="yes"/>
+      <point x="41" y="880"/>
+      <point x="96" y="824"/>
+      <point x="96" y="680" type="curve"/>
+      <point x="164" y="680" type="line"/>
+      <point x="164" y="867"/>
+      <point x="78" y="956"/>
+      <point x="-102" y="956" type="curve" smooth="yes"/>
+    </contour>
+    <component base="aaMatra-deva"/>
+    <contour>
+      <point x="-251" y="741" type="move" name="iimatra"/>
+    </contour>
+  </outline>
+</glyph>

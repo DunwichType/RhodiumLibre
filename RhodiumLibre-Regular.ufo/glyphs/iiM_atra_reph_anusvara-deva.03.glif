@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph_anusvara-deva.03" format="1">
+  <advance width="260"/>
+  <outline>
+    <component base="iiMatra-deva.03"/>
+    <component base="reph-deva.imatra"/>
+    <component base="anusvara-deva" xOffset="142" yOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

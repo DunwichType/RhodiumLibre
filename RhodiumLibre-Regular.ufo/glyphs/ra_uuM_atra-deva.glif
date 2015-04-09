@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ra_uuMatra-deva" format="1">
+  <advance width="637"/>
+  <note>
+	dRMatraUu
+  </note>
+  <outline>
+    <contour>
+      <point x="387" y="680" type="line"/>
+      <point x="387" y="604" type="line"/>
+      <point x="647" y="604" type="line"/>
+      <point x="647" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="220"/>
+      <point x="284" y="173"/>
+      <point x="369" y="173" type="curve" smooth="yes"/>
+      <point x="401" y="173"/>
+      <point x="434" y="177"/>
+      <point x="460" y="188" type="curve"/>
+      <point x="460" y="260" type="line"/>
+      <point x="430" y="248"/>
+      <point x="400" y="245"/>
+      <point x="372" y="245" type="curve" smooth="yes"/>
+      <point x="319" y="245"/>
+      <point x="295" y="265"/>
+      <point x="295" y="306" type="curve" smooth="yes"/>
+      <point x="295" y="353"/>
+      <point x="328" y="374"/>
+      <point x="397" y="374" type="curve" smooth="yes"/>
+      <point x="523" y="374"/>
+      <point x="586" y="307"/>
+      <point x="586" y="173" type="curve"/>
+      <point x="648" y="173" type="line"/>
+      <point x="648" y="347"/>
+      <point x="552" y="446"/>
+      <point x="401" y="446" type="curve" smooth="yes"/>
+      <point x="294" y="446"/>
+      <point x="233" y="395"/>
+      <point x="233" y="304" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ra-deva"/>
+  </outline>
+</glyph>

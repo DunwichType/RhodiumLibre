@@ -2,8 +2,6 @@
 
 Rhodium Libre is a font developed by James Puckett of Dunwich Type Founders.
 
-These development files are supplied only for the purposes of testing, study, and review. Please only use released versions in production environments, available from https://github.com/DunwichType/RhodiumLibre/releases
-
 Rhodium Libre was designed for use on screens at small sizes and the Latin and Devanagari scripts. To that end, the design is generally uncomplicated and coarse, lacking the small details that are lost on screens; this also reduces the file size to improve latency when used as a web font. The letters are designed slightly wide, with open counters, a large x-height in the Latin glyphs, and so on. The Devanagari glyphs are the same height as the Latin capitals to allow them to stand alongside the oversized Latin lowercase. 
 
 Historical models for Rhodium’s design are Fortune (AKA Volta) by Konrad Bauer and Walter Baum, and Rex by Intertype. Matthew Carter’s Verdana provided insight into designing type for small sizes and adverse reading environments.

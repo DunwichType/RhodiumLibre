@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reph_anusvara-deva.imatra" format="1">
+  <advance width="250"/>
+  <outline>
+    <contour>
+      <point x="165" y="670" type="line"/>
+      <point x="165" y="819" type="line" smooth="yes"/>
+      <point x="165" y="888"/>
+      <point x="192" y="909"/>
+      <point x="248" y="909" type="curve" smooth="yes"/>
+      <point x="270" y="909"/>
+      <point x="286" y="908"/>
+      <point x="306" y="904" type="curve"/>
+      <point x="306" y="987" type="line"/>
+      <point x="289" y="990"/>
+      <point x="272" y="991"/>
+      <point x="248" y="991" type="curve" smooth="yes"/>
+      <point x="153" y="991"/>
+      <point x="110" y="937"/>
+      <point x="110" y="819" type="curve" smooth="yes"/>
+      <point x="110" y="670" type="line"/>
+    </contour>
+    <component base="anusvara-deva" xOffset="138" yOffset="-17"/>
+    <contour>
+      <point x="130" y="680" type="move" name="_top "/>
+    </contour>
+    <contour>
+      <point x="131" y="720" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>reph-deva.imatra</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>anusvara-deva</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>260</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>reph_anusvara-deva.imatra</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>250</integer>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
